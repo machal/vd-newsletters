@@ -1,0 +1,588 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>*|MC:SUBJECT|*</title>
+        <style type="text/css">
+			/* /\/\/\/\/\/\/\/\/ CLIENT-SPECIFIC STYLES /\/\/\/\/\/\/\/\/ */
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" message */
+			.ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force Hotmail to display normal line spacing */
+			body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;} /* Prevent WebKit and Windows mobile changing default text sizes */
+			table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing between tables in Outlook 2007 and up */
+			img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of resized image in Internet Explorer */
+
+			/* /\/\/\/\/\/\/\/\/ RESET STYLES /\/\/\/\/\/\/\/\/ */
+			body{margin:0; padding:0;}
+			img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+			table{border-collapse:collapse !important;}
+			body, #bodyTable, #bodyCell{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			/* /\/\/\/\/\/\/\/\/ TEMPLATE STYLES /\/\/\/\/\/\/\/\/ */
+
+			#bodyCell{padding:20px;}
+			#templateContainer{width:600px;}
+
+			/* ========== Page Styles ========== */
+
+			/**
+			* @tab Page
+			* @section background style
+			* @tip Set the background color and top border for your email. You may want to choose colors that match your company's branding.
+			* @theme page
+			*/
+			body, #bodyTable{
+				/*@editable*/ background-color:#E3E3E3;
+			}
+
+			/**
+			* @tab Page
+			* @section background style
+			* @tip Set the background color and top border for your email. You may want to choose colors that match your company's branding.
+			* @theme page
+			*/
+			#bodyCell{
+				/*@editable border-top:4px solid #b5b296; */
+			}
+
+			/**
+			* @tab Page
+			* @section email border
+			* @tip Set the border for your email.
+			*/
+			#templateContainer{
+				/*@editable*/ border:1px solid #b5b296;
+			}
+
+			/**
+			* @tab Page
+			* @section heading 1
+			* @tip Set the styling for all first-level headings in your emails. These should be the largest of your headings.
+			* @style heading 1
+			*/
+			h1{
+				/*@editable*/ color:#86835f !important;
+				display:block;
+				/*@editable*/ font-family: georgia,times,"times new roman",serif;
+				/*@editable*/ font-size:26px;
+				/*@editable*/ font-style:normal;
+				/*@editable*/ font-weight:bold;
+				/*@editable*/ line-height:100%;
+				/*@editable*/ letter-spacing:normal;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				/*@editable*/ text-align:left;
+			}
+
+			/**
+			* @tab Page
+			* @section heading 2
+			* @tip Set the styling for all second-level headings in your emails.
+			* @style heading 2
+			*/
+			h2{
+				/*@editable*/ color:#86835f !important;
+				display:block;
+				/*@editable*/ font-family:georgia,times,"times new roman",serif;
+				/*@editable*/ font-size:20px;
+				/*@editable*/ font-style:normal;
+				/*@editable*/ font-weight:bold;
+				/*@editable*/ line-height:100%;
+				/*@editable*/ letter-spacing:normal;
+				margin-top:25px;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				/*@editable*/ text-align:left;
+			}
+
+			/**
+			* @tab Page
+			* @section heading 3
+			* @tip Set the styling for all third-level headings in your emails.
+			* @style heading 3
+			*/
+			h3{
+				/*@editable*/ color:#86835f !important;
+				display:block;
+				/*@editable*/ font-family:georgia,times,"times new roman",serif;
+				/*@editable*/ font-size:16px;
+				/*@editable*/ font-style:italic;
+				/*@editable*/ font-weight:normal;
+				/*@editable*/ line-height:100%;
+				/*@editable*/ letter-spacing:normal;
+				margin-top:18px;
+				margin-right:0;
+				margin-bottom:4px;
+				margin-left:0;
+				/*@editable*/ text-align:left;
+			}
+
+			/**
+			* @tab Page
+			* @section heading 4
+			* @tip Set the styling for all fourth-level headings in your emails. These should be the smallest of your headings.
+			* @style heading 4
+			*/
+			h4{
+				/*@editable*/ color:#86835f !important;
+				display:block;
+				/*@editable*/ font-family:georgia,times,"times new roman",serif;
+				/*@editable*/ font-size:14px;
+				/*@editable*/ font-style:italic;
+				/*@editable*/ font-weight:normal;
+				/*@editable*/ line-height:100%;
+				/*@editable*/ letter-spacing:normal;
+				margin-top:0;
+				margin-right:0;
+				margin-bottom:10px;
+				margin-left:0;
+				/*@editable*/ text-align:left;
+			}
+
+			/* ========== Header Styles ========== */
+
+			/**
+			* @tab Header
+			* @section preheader style
+			* @tip Set the background color and bottom border for your email's preheader area.
+			* @theme header
+			*/
+			#templatePreheader{
+				/*@editable*/ background-color:#F4F4F4;
+				/*@editable border-bottom:1px solid #b5b296;*/
+			}
+
+			/**
+			* @tab Header
+			* @section preheader text
+			* @tip Set the styling for your email's preheader text. Choose a size and color that is easy to read.
+			*/
+			.preheaderContent{
+				/*@editable*/ color:#86835f;
+				/*@editable*/ font-family:georgia,times,"times new roman",serif;
+				/*@editable*/ font-size:10px;
+				/*@editable*/ line-height:125%;
+				/*@editable*/ text-align:left;
+			}
+
+			/**
+			* @tab Header
+			* @section preheader link
+			* @tip Set the styling for your email's preheader links. Choose a color that helps them stand out from your text.
+			*/
+			.preheaderContent a:link, .preheaderContent a:visited, /* Yahoo! Mail Override */ .preheaderContent a .yshortcuts /* Yahoo! Mail Override */{
+				/*@editable*/ color:#86835f;
+				/*@editable*/ font-weight:normal;
+				/*@editable*/ text-decoration:underline;
+			}
+
+			/**
+			* @tab Header
+			* @section header style
+			* @tip Set the background color and borders for your email's header area.
+			* @theme header
+			*/
+			#templateHeader{
+				/*@editable*/ background-color:#F4F4F4;
+				/*@editable border-top:1px solid #FFFFFF;*/
+				/*@editable border-bottom:1px solid #b5b296; */
+			}
+
+			/**
+			* @tab Header
+			* @section header text
+			* @tip Set the styling for your email's header text. Choose a size and color that is easy to read.
+			*/
+			.headerContent{
+				/*@editable*/ color:#86835f;
+				/*@editable*/ font-family:georgia,times,"times new roman",serif;
+				/*@editable*/ font-size:20px;
+				/*@editable*/ font-weight:bold;
+				/*@editable*/ line-height:100%;
+				/*@editable*/ padding-top:0;
+				/*@editable*/ padding-right:0;
+				/*@editable*/ padding-bottom:0;
+				/*@editable*/ padding-left:0;
+				/*@editable*/ text-align:left;
+				/*@editable*/ vertical-align:middle;
+			}
+
+			/**
+			* @tab Header
+			* @section header link
+			* @tip Set the styling for your email's header links. Choose a color that helps them stand out from your text.
+			*/
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+				/*@editable*/ color:#86835f;
+				/*@editable*/ font-weight:normal;
+				/*@editable*/ text-decoration:underline;
+			}
+
+			#headerImage{
+				height:auto;
+				max-width:600px;
+			}
+
+			/* ========== Body Styles ========== */
+
+			/**
+			* @tab Body
+			* @section body style
+			* @tip Set the background color and borders for your email's body area.
+			*/
+			#templateBody{
+				/*@editable*/ background-color:#F4F4F4;
+				/*@editable*/ border-top:1px solid #FFFFFF;
+				/*@editable*/ border-bottom:1px solid #b5b296;
+			}
+
+			/**
+			* @tab Body
+			* @section body text
+			* @tip Set the styling for your email's main content text. Choose a size and color that is easy to read.
+			* @theme main
+			*/
+			.bodyContent{
+				/*@editable*/ color:#48440e;
+				/*@editable*/ font-family:georgia,times,"times new roman",serif;
+				/*@editable*/ font-size:16px;
+				/*@editable*/ line-height:150%;
+				padding-top:25px;
+				padding-right:25px;
+				padding-bottom:25px;
+				padding-left:25px;
+				/*@editable*/ text-align:left;
+			}
+
+			/**
+			* @tab Body
+			* @section body link
+			* @tip Set the styling for your email's main content links. Choose a color that helps them stand out from your text.
+			*/
+			.bodyContent a:link, .bodyContent a:visited, /* Yahoo! Mail Override */ .bodyContent a .yshortcuts /* Yahoo! Mail Override */{
+				/*@editable*/ color:#5fa316;
+				/*@editable*/ font-weight:normal;
+				/*@editable*/ text-decoration:underline;
+			}
+
+			.bodyContent img{
+				display:inline;
+				height:auto;
+				max-width:560px;
+			}
+
+			/* ========== Footer Styles ========== */
+
+			/**
+			* @tab Footer
+			* @section footer style
+			* @tip Set the background color and borders for your email's footer area.
+			* @theme footer
+			*/
+			#templateFooter{
+				/*@editable*/ background-color:#F4F4F4;
+				/*@editable*/ border-top:1px solid #FFFFFF;
+			}
+
+			/**
+			* @tab Footer
+			* @section footer text
+			* @tip Set the styling for your email's footer text. Choose a size and color that is easy to read.
+			* @theme footer
+			*/
+			.footerContent{
+				/*@editable*/ color:#86835f;
+				/*@editable*/ font-family:georgia,times,"times new roman",serif;
+				/*@editable*/ font-size:10px;
+				/*@editable*/ line-height:150%;
+				padding-top:20px;
+				padding-right:20px;
+				padding-bottom:20px;
+				padding-left:20px;
+				/*@editable*/ text-align:left;
+			}
+
+			/**
+			* @tab Footer
+			* @section footer link
+			* @tip Set the styling for your email's footer links. Choose a color that helps them stand out from your text.
+			*/
+			.footerContent a:link, .footerContent a:visited, /* Yahoo! Mail Override */ .footerContent a .yshortcuts, .footerContent a span /* Yahoo! Mail Override */{
+				/*@editable*/ color:#86835f;
+				/*@editable*/ font-weight:normal;
+				/*@editable*/ text-decoration:underline;
+			}
+
+			/* /\/\/\/\/\/\/\/\/ MOBILE STYLES /\/\/\/\/\/\/\/\/ */
+
+            @media only screen and (max-width: 480px){
+				/* /\/\/\/\/\/\/ CLIENT-SPECIFIC MOBILE STYLES /\/\/\/\/\/\/ */
+				body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:none !important;} /* Prevent Webkit platforms from changing default text sizes */
+                body{width:100% !important; min-width:100% !important;} /* Prevent iOS Mail from adding padding to the body */
+
+				/* /\/\/\/\/\/\/ MOBILE RESET STYLES /\/\/\/\/\/\/ */
+				#bodyCell{padding:10px !important;}
+
+				/* /\/\/\/\/\/\/ MOBILE TEMPLATE STYLES /\/\/\/\/\/\/ */
+
+				/* ======== Page Styles ======== */
+
+				/**
+				* @tab Mobile Styles
+				* @section template width
+				* @tip Make the template fluid for portrait or landscape view adaptability. If a fluid layout doesn't work for you, set the width to 300px instead.
+				*/
+				#templateContainer{
+					max-width:600px !important;
+					/*@editable*/ width:100% !important;
+				}
+
+				/**
+				* @tab Mobile Styles
+				* @section heading 1
+				* @tip Make the first-level headings larger in size for better readability on small screens.
+				*/
+				h1{
+					/*@editable*/ font-size:24px !important;
+					/*@editable*/ line-height:100% !important;
+				}
+
+				/**
+				* @tab Mobile Styles
+				* @section heading 2
+				* @tip Make the second-level headings larger in size for better readability on small screens.
+				*/
+				h2{
+					/*@editable*/ font-size:20px !important;
+					/*@editable*/ line-height:100% !important;
+				}
+
+				/**
+				* @tab Mobile Styles
+				* @section heading 3
+				* @tip Make the third-level headings larger in size for better readability on small screens.
+				*/
+				h3{
+					/*@editable*/ font-size:18px !important;
+					/*@editable*/ line-height:100% !important;
+					margin-bottom: 4px;
+				}
+
+				/**
+				* @tab Mobile Styles
+				* @section heading 4
+				* @tip Make the fourth-level headings larger in size for better readability on small screens.
+				*/
+				h4{
+					/*@editable*/ font-size:16px !important;
+					/*@editable*/ line-height:100% !important;
+				}
+
+				/* ======== Header Styles ======== */
+
+				#templatePreheader{display:none !important;} /* Hide the template preheader to save space */
+
+				/**
+				* @tab Mobile Styles
+				* @section header image
+				* @tip Make the main header image fluid for portrait or landscape view adaptability, and set the image's original width as the max-width. If a fluid setting doesn't work, set the image width to half its original size instead.
+				*/
+				#headerImage{
+					height:auto !important;
+					/*@editable*/ max-width:600px !important;
+					/*@editable*/ width:100% !important;
+				}
+
+				/**
+				* @tab Mobile Styles
+				* @section header text
+				* @tip Make the header content text larger in size for better readability on small screens. We recommend a font size of at least 16px.
+				*/
+				.headerContent{
+					/*@editable*/ font-size:20px !important;
+					/*@editable*/ line-height:125% !important;
+				}
+
+				/* ======== Body Styles ======== */
+
+				/**
+				* @tab Mobile Styles
+				* @section body image
+				* @tip Make the main body image fluid for portrait or landscape view adaptability, and set the image's original width as the max-width. If a fluid setting doesn't work, set the image width to half its original size instead.
+				*/
+				#bodyImage{
+					height:auto !important;
+					/*@editable*/ max-width:560px !important;
+					/*@editable*/ width:100% !important;
+				}
+
+				/**
+				* @tab Mobile Styles
+				* @section body text
+				* @tip Make the body content text larger in size for better readability on small screens. We recommend a font size of at least 16px.
+				*/
+				.bodyContent{
+					/*@editable*/ font-size:16px !important;
+					/*@editable*/ line-height:125% !important;
+				}
+
+				/* ======== Footer Styles ======== */
+
+				/**
+				* @tab Mobile Styles
+				* @section footer text
+				* @tip Make the body content text larger in size for better readability on small screens.
+				*/
+				.footerContent{
+					/*@editable*/ font-size:14px !important;
+					/*@editable*/ line-height:115% !important;
+				}
+
+				.footerContent a{display:block !important;} /* Place footer social and utility links on their own lines, for easier access */
+			}
+		</style>
+    </head>
+    <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+    	<center>
+        	<table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable">
+            	<tr>
+                	<td align="center" valign="top" id="bodyCell">
+                    	<!-- BEGIN TEMPLATE // -->
+                    	<table border="0" cellpadding="0" cellspacing="0" id="templateContainer">
+                        	<tr>
+                            	<td align="center" valign="top">
+                                	<!-- BEGIN PREHEADER // -->
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templatePreheader">
+                                        <tr>
+                                            <td valign="top" class="preheaderContent" style="padding-top:10px; padding-right:100px; padding-bottom:10px; padding-left:20px;" mc:edit="preheader_content00">
+#5: React, React, všude samý React!
+                                            </td>
+                                            <!-- *|IFNOT:ARCHIVE_PAGE|* -->
+                                            <td valign="top" width="180" class="preheaderContent" style="padding-top:10px; padding-right:20px; padding-bottom:10px; padding-left:0;" mc:edit="preheader_content01">
+Email se nezobrazuje dobře?<br /><a href="*|ARCHIVE|*" target="_blank">Otevřete jej v prohlížeči</a>.
+                                            </td>
+                                            <!-- *|END:IF|* -->
+                                        </tr>
+                                    </table>
+                                    <!-- // END PREHEADER -->
+                                </td>
+                            </tr>
+                        	<tr>
+                            	<td align="center" valign="top">
+                                	<!-- BEGIN HEADER // -->
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templateHeader">
+                                        <tr>
+                                            <td valign="top" class="headerContent"><img src="https://gallery.mailchimp.com/d6be2f1899eba6a7651157403/images/75ddf138-d2ae-4015-978f-09eea4998337.png" style="max-width:600px;" id="headerImage" mc:label="header_image" mc:edit="header_image" mc:allowdesigner mc:allowtext />
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END HEADER -->
+                                </td>
+                            </tr>
+                        	<tr>
+                            	<td align="center" valign="top">
+                                	<!-- BEGIN BODY // -->
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templateBody">
+                                        <tr>
+                                            <td valign="top" class="bodyContent" mc:edit="body_content00">
+
+<h1>#5: React, React, všude samý React!</h1>
+
+<p>Vítejte u dalšího vydání frontend novinek, přátelé. Čekali jste dlouho, viďte? Další čísla chceme produkovat častěji, i proto má tohle vydání poprvé dva autory – nově jej pro vás připravujeme v tandemu s <a href="http://www.martinpesout.cz/">Martinem Pešoutem</a>.</p>
+
+<h2>React pro vývojáře uživatelského rozhraní</h2>
+
+<p>Pro listopadový sraz Frontendistů jsme vybrali výbušné téma – React. Tato knihovna pro vytváření webových komponent zažívá v poslední době nebývalý rozmach. Pokud například pracujete na webových aplikacích, může být právě React pro vás tou správnou volbou. Frontendisti se na tuhle kometu pokusí podívat trochu jiným dalekohledem, než to se obvykle dělává. Takže pokud ještě nemáte nic v plánu, šup s 19. listopadem do kalendáře a hlavně doražte: <a href="http://srazy.info/frontendisti/5908">srazy.info/frontendisti/5908</a></p>
+
+<h2>Videa z Webexpo jsou venku</h2>
+
+<p>Neměli jste šanci být na letošní konferenci Webexpo 2015 v Praze nebo vám některá z přednášek unikla? Podzimní sychravé večery si můžete zpříjemnit záznamy přednášek, které jsou k dispozici spolu se slajdy na <a href="http://webexpo.cz/videa/2015/">webexpo.cz/videa/2015/</a></p>
+
+<h2>Je navigace s ikonou hamburgeru opravdu dobrý nápad? Počkejte, opravdu?</h2>
+
+<p>V letošním roce zrušilo několik velkých služeb svou mobilní navigaci schovanou za hamburgerovou ikonku. Příkladem může být třeba služba YouTube. Důvodem je, že uživatelé nevidí důležité odkazy přímo a musí mobilní navigaci nejprve otevřít a celou prozkoumat. Tento článek rozebírá možné důvody a přidává i několik názorných ukázek: <a href="http://deep.design/the-hamburger-menu/">deep.design/the-hamburger-menu/</a></p>
+
+<h2>Vše o cookie liště</h2>
+
+<p>Tvůrci webů v České republice si od října musí dávat pozor a v některých případech si musí od svých návštěvníků vyžádat souhlas s ukládáním cookies. Pozor, netýká se to běžně instalovaných Google Analytics. A není to kvůli EU, ale kvůli Google. Chcete další informace? Nejprve si <a href="http://www.vzhurudolu.cz/blog/36-eu-cookies">přečtěte Martinův článek</a> a pak názory <a href="https://phpfashion.com/jak-na-souhlas-s-cookie-v-eu">Davida Grudla</a> a <a href="http://www.lupa.cz/clanky/na-posledni-chvili-jak-na-web-dostat-souhlas-s-pouzivanim-cookies/">Michala Vojáka</a>.</p>
+
+<h2>Rychlé tipy a triky</h2>
+
+<ul>
+<li><strong><a href="http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/">React pro lidi co umí jQuery</a></strong> - vynikající tutoriál pro frontend designéry. Pro programátory to bude nuda.</li>
+<li><strong><a href="https://umaar.com/dev-tips/">DevTools Tips</a></strong> - Umar Hansa vystoupil i na letošním Webexpo. Je znám tím, že píše newsletter a video návody týkající se převážně používání Chrome DevTools. Odebíráním jeho newsletteru rozhodně neprohloupíte.</li>
+<li><strong><a href="https://helloanselm.com/2015/using-webfonts-in-2015/">Using Webfonts in 2015</a></strong> - článek vám ukáže cestu, jak správně pracovat s fonty v dnešní době tak, aby nedocházelo k blokování renderování stránky.</li>
+<li><strong><a href="sami%20http://www.monotype.com/">Nový web Monotype</a></strong> – společnost Monotype je známá ve světě tvorbou fontů. Výrazně redesignovala svůj web a musíme říct, že jejich práce je zvládnutá na výbornou. Posuďte sami.</li>
+<li><strong><a href="http://www.fontreach.com/">FontReach</a></strong> – nová služba, která prohledává milión největších webů a poskytuje statistiku, které fonty jsou nejvíce používány.</li>
+<li><strong><a href="https://www.youtube.com/watch?v=WAj1yjL7btA">Video: Performance Beyond the Page Load</a></strong> - Je výkon vašeho webu i po načtení neuspokojivý? Pokud nevíte jak využít Chrome DevTools ke zjištění základních problémů, doporučujeme shlédnout tuhle přednášku.</li>
+</ul>
+
+
+<h2>Co důležitého se dělo na VzhůruDolů.cz zatímco  newsletter nepřicházel a nepřicházel?</h2>
+
+<ul>
+<li><strong><a href="http://www.vzhurudolu.cz/blog/40-amp">Můj pohled na Accelerated Mobile Pages</a></strong>, moc zajímavou iniciativu Google pro zrychlení zobrazování obsahových webů.</li>
+<li><strong><a href="http://www.vzhurudolu.cz/blog/38-design-v-prohlizeci">Design webů v prohlížeči</a></strong> – přepis přednášky o mém postupu navrhování webů. Možné vidět i <a href="webexpo.cz/praha2015/prednaska/designovani-webu-v-prohlizeci/">jako video</a>.</li>
+<li><strong><a href="http://www.vzhurudolu.cz/prirucka/mobile-first">Co je to „Mobile First“?</a></strong> – Ale doopravdy. A do hloubky.</li>
+<li><strong><a href="http://www.vzhurudolu.cz/blog/35-critical-css">Critical CSS</a></strong> – způsob jak velmi urychlit zobrazení stránky na pomalých připojeních. Také <a href="http://www.vzhurudolu.cz/prednaska/frontendisticz-critical-css-144">jako video</a>.</li>
+<li><strong><a href="http://www.vzhurudolu.cz/ebook">…a vyšel ebook!</a></strong></li>
+</ul>
+
+
+<p>A to je vše, přátelé. Přejeme hezký listopad!</p>
+
+<p>Martin Michálek (<a href="http://www.twitter.com/machal">@machal</a>) &amp; Martin Pešout (<a href="http://www.twitter.com/martinpesout">@machal</a>)</p>
+
+<p>PS: Články VzhůruDolů.cz můžete odebírat také přes <a href="http://www.vzhurudolu.cz/rss">RSS</a>, na  <a href="https://www.facebook.com/VzhuruDolu">Facebooku</a>, <a href="https://plus.google.com/b/109221560773963108322/+VzhurudoluCz/posts">Google</a>+ nebo <a href="http://www.twitter.com/vzhurudolu">Twitteru</a>.</p>
+
+
+
+                                            </td>
+                                        </tr>
+                                     
+                                    </table>
+                                    <!-- // END BODY -->
+                                </td>
+                            </tr>
+                        	<tr>
+                            	<td align="center" valign="top">
+                                	<!-- BEGIN FOOTER // -->
+                                    <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templateFooter">
+                                        <tr>
+                                            <td valign="top" class="footerContent" mc:edit="footer_content00">
+<a href="*|TWITTER:PROFILEURL|*">Twitter</a>&nbsp;&nbsp;&nbsp;<a href="*|FACEBOOK:PROFILEURL|*">Facebook</a>&nbsp;&nbsp;&nbsp;<a href="*|FORWARD|*">Přeposlat email</a>&nbsp;
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td valign="top" class="footerContent" style="padding-top:0;" mc:edit="footer_content01">
+<em>Obsah je publikován pod Creative Commons licencí Uveďte autora, neužívejte komerčně 3.0 Česko.</em>
+<br />
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:DESCRIPTION|*
+<br />
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td valign="top" class="footerContent" style="padding-top:0;" mc:edit="footer_content02">
+<a href="*|UNSUB|*">odhlásit</a> &nbsp;&nbsp;&nbsp;<a href="*|UPDATE_PROFILE|*">změnit email nebo jméno</a>&nbsp;
+
+<br /><br />
+
+*|REWARDS|*
+
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END FOOTER -->
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- // END TEMPLATE -->
+                    </td>
+                </tr>
+            </table>
+        </center>
+    </body>
+</html>
