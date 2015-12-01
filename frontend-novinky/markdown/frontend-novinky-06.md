@@ -2,7 +2,17 @@
 
 ## Přechází WordPress na React a Javacript? Ale vůbec ne.
 
-…TODO MM…
+[Oznámení](http://ma.tt/2015/11/dance-to-calypso/) o přechodu redakčního systému hostovaného WordPressu na Javascript a React bylo napsáno a interpretováno tak nešťastně, že si je mnozí vyložili jako konec PHP a začátek nové éry ve webařině. Prosím pěkně, to vůbec ne! Co se tedy přesně stalo a co to pro vás znamená?
+
+První fakt – WordPress.com je hostovaná verze Wordpressu. Zaplatíte si měsíční poplatek a v prohlížeči editujete svůj web. Instalovaná verze Wordpressu – Wordpress.org – kterou asi znáte více, není s hostovanou nijak pevně spjatá.
+
+Druhý fakt – na React/Javascript přešla administrační aplikace WordPress.com. Nic jiného.
+
+Backend obou Wordpressů zůstává stále v PHP/MySQL a nevypadá to, že by se něco mělo měnit. Takže žádná revoluce, žádný konec PHP. Jen malý (a rozhodně pochopitelný) krok pro určitou část Wordpress ekosystému.
+
+[Střízlivější komentáře](http://wesbos.com/wordpress-calypso-react/) doplňují, že Wordpress se bude stále častěji využívat jen jako správce obsahu s API, na které  napojíte frontend aplikaci napsanou v Javascriptu. Na druhou stranu – přesun backendu na Javascript v nejblížších letech moc nehrozí.
+
+Takže – pokud něco vyvíjíte na Wordpressu, naučit se Javascript je pro vás prostě nutnost. Své milé PHP ale z paměti prosím ještě nemažte.
 
 
 ## Končí podpora starších IE 
