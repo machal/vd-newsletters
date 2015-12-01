@@ -14,11 +14,9 @@ Backend obou Wordpressů zůstává stále v PHP/MySQL a nevypadá to, že by se
 
 Takže – pokud něco vyvíjíte na Wordpressu, naučit se Javascript je pro vás prostě nutnost. Své milé PHP ale z paměti prosím ještě nemažte.
 
-
 ## Končí podpora starších IE
 
-[Microsoft oznámil](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support), že 12. ledna 2016 ukončí podporu starších prohlížečů Internet Explorer, tedy kromě IE11. Pro kodéry je to určitě významný krok vpřed, protože řada moderních CSS vlastností musela být řešena pomocí různých fallbacků.
-
+[Microsoft oznámil](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support), že 12. ledna 2016 ukončí podporu starších prohlížečů Internet Explorer, tedy kromě IE11. Pro webové vývojáře to ale bude něco znamenat až ve chvíli, kdy starší Explorery zmizí ze statistik návštěvnosti. A to bude ještě mnoho měsíců trvat. Pokud ale chceme konec podpory MSIE brát jako dobrou zprávu, nic vám nebrání. Radujme se společně. 
 
 ## Rychlé tipy a triky
 
