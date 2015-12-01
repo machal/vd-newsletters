@@ -30,7 +30,7 @@ Takže – pokud něco vyvíjíte na Wordpressu, naučit se Javascript je pro v�
 - **[How z-index Works](http://bitsofco.de/how-z-index-works/)** - Jaká úskalí nám může přinést používání CSS vlastnosti z-index?
 - **[A Book Apart vydává nové knížky o responzivním designu](http://abookapart.com/blogs/press/77559111-new-responsive-design-books-from-ethan-marcotte-karen-mcgrane)** – pozoruhodné jsou díky autorům, Ethan Marcotte vymyslel responzivní design a Karen McCrane zase mocně popularizuje obsahové strategie.
 - **[Video: Hiding Things with CSS](https://www.youtube.com/watch?v=pLokyKj10Gw)** - Při skrývání elementů pomocí CSS neexistuje pouze použití `display: none;`. Vždy je nutné zvážit důvody, proč element vůbec skrýváme a jaké nevýhody to může přinést.
-- **[Zurb Foundation 6](http://zurb.com/article/1403/foundation-6-prototype-to-production)** - V nové verzi Zurb Foundation se autoři rozhodli posunout možnosti webových frameworků zas o kus dál. Vytvořili nástroj, který by měl být vhodný jak na prototypování, tak pro snadné převedení vzniklého prototypu do finální podoby.
+- **[Zurb Foundation 6](http://zurb.com/article/1416/foundation-6-is-here)** - V nové verzi Zurb Foundation se autoři rozhodli posunout možnosti webových frameworků zas o kus dál. Vytvořili nástroj, který by měl být vhodný jak na prototypování, tak pro snadné převedení vzniklého prototypu do finální podoby.
 - **[Drupal 8](https://www.drupal.org/8)** - nová verze známého CMS je na světě. Drupal 8 je unikátní koncept, kde se skloubí jak technické pokroky, tak zlepšení ergonomie práce pro uživatele.
 
 ## Co nového na VzhůruDolů.cz?
