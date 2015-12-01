@@ -41,6 +41,6 @@ Takže – pokud něco vyvíjíte na Wordpressu, naučit se Javascript je pro v�
 
 A to je vše, přátelé. Přejeme hezký prosinec a vánoční svátky!
 
-Martin Michálek ([@machal](http://www.twitter.com/machal)) & Martin Pešout ([@machal](http://www.twitter.com/martinpesout))
+Martin Michálek ([@machal](http://www.twitter.com/machal)) & Martin Pešout ([@martinpesout](http://www.twitter.com/martinpesout))
 
 PS: Články VzhůruDolů.cz můžete odebírat také přes [RSS](http://www.vzhurudolu.cz/rss), na  [Facebooku](https://www.facebook.com/VzhuruDolu), [Google](https://plus.google.com/b/109221560773963108322/+VzhurudoluCz/posts)+ nebo [Twitteru](http://www.twitter.com/vzhurudolu).
