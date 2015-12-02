@@ -2,33 +2,33 @@
 
 ## Přechází WordPress na React a Javacript? Ale vůbec ne.
 
-[Oznámení](http://ma.tt/2015/11/dance-to-calypso/) o přechodu redakčního systému hostovaného WordPressu na Javascript a React bylo napsáno a interpretováno tak nešťastně, že si je mnozí vyložili jako konec PHP a začátek nové éry ve webařině. Prosím pěkně, to vůbec ne! Co se tedy přesně stalo a co to pro vás znamená?
+[Oznámení](http://ma.tt/2015/11/dance-to-calypso/) o přechodu redakčního systému hostovaného WordPressu na Javascript a React bylo napsáno tak nešťastně, že si je mnozí interpretovali jako konec PHP a začátek nové, javascriptové éry ve webařině. Prosím pěkně, to vůbec ne! Co se tedy přesně stalo a co to pro vás znamená?
 
 První fakt – WordPress.com je hostovaná verze Wordpressu. Zaplatíte si měsíční poplatek a v prohlížeči editujete svůj web. Instalovaná verze Wordpressu – Wordpress.org – kterou asi znáte více, není s hostovanou nijak pevně spjatá.
 
 Druhý fakt – na React/Javascript přešla administrační aplikace WordPress.com. Nic jiného.
 
-Backend obou Wordpressů zůstává stále v PHP/MySQL a nevypadá to, že by se něco mělo měnit. Takže žádná revoluce, žádný konec PHP. Jen malý (a rozhodně pochopitelný) krok pro určitou část Wordpress ekosystému.
+Backend obou Wordpressů zůstává stále v PHP/MySQL a není důvod, že by se na tom mělo něco v nejblížších letech měnit. Takže žádná revoluce, žádný konec PHP. Jen malý (a rozhodně pochopitelný) krok pro část Wordpress ekosystému.
 
-[Střízlivější komentáře](http://wesbos.com/wordpress-calypso-react/) doplňují, že Wordpress se bude stále častěji využívat jen jako správce obsahu s API, na které  napojíte frontend aplikaci napsanou v Javascriptu. Na druhou stranu – přesun backendu na Javascript v nejblížších letech moc nehrozí.
+[Střízlivější komentáře](http://wesbos.com/wordpress-calypso-react/) doplňují, že Wordpress se bude stále častěji využívat jen jako správce obsahu s API, na které  napojíte frontend aplikaci napsanou klidně v Javascriptu. Na druhou stranu – přesun backendu na Javascript v nejblížších letech moc nehrozí.
 
 Takže – pokud něco vyvíjíte na Wordpressu, naučit se Javascript je pro vás prostě nutnost. Své milé PHP ale z paměti prosím ještě nemažte.
 
 ## Končí podpora starších IE
 
-[Microsoft oznámil](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support), že 12. ledna 2016 ukončí podporu starších prohlížečů Internet Explorer, tedy kromě IE11. Pro webové vývojáře to ale bude něco znamenat až ve chvíli, kdy starší Explorery zmizí ze statistik návštěvnosti. A to bude ještě mnoho měsíců trvat. Pokud ale chceme konec podpory MSIE brát jako dobrou zprávu, nic vám nebrání. Radujme se společně. 
+[Microsoft oznámil](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support), že 12. ledna 2016 ukončí podporu starších prohlížečů Internet Explorer, tedy kromě IE11. Pro webové vývojáře to ale bude něco znamenat až ve chvíli, kdy starší Explorery zmizí ze statistik návštěvnosti. A to bude ještě mnoho měsíců trvat. Pokud ale chceme konec podpory MSIE brát jako dobrou zprávu, nic vám nebrání. Radujme se společně na [IE10 countdown](http://meowni.ca/is-ie10-dead/). 
 
 ## Rychlé tipy a triky
 
-- **[The State of Web Type](http://stateofwebtype.com/)**. Seznam různých vlastností z typografie, které lze v dnešní době použít na webu? Najdete zde i informace o podporovaných prohlížečích.
-- **[Trix](http://trix-editor.org/)** - Trix je WYSIWYG editor od tvůrců Basecampu pro moderní prohlížeče.
 - **[Performance Budget](http://www.performancebudget.io/)**. Máte představu, jak rychle by se měl váš web načítat na mobílní síti? Vypočtěte si jeho ideální velikost.
 - **[Flexbox Myths](http://jonyablonski.com/2015/flexbox-myth-busting/)**. Seznam známých mýtů a polopravd, které kolují kolem CSS vlastnosti Flexbox.
-- **[Lazy Loading Images on the Web](http://developer.telerik.com/featured/lazy-loading-images-on-the-web/)**. Tíží vás nahrávání obrázků na webu? Přečtěte si poslední trendy pro jejich asynchronní načítání.
+- **[The State of Web Type](http://stateofwebtype.com/)**. Typografické vlastnosti, které lze v dnešní době použít na webu. Včetně informací o podporovaných prohlížečích.
+- **[Trix](http://trix-editor.org/)**. WYSIWYG editor pro moderní prohlížeče  od tvůrců Basecampu.
+- **[Lazy Loading Images on the Web](http://developer.telerik.com/featured/lazy-loading-images-on-the-web/)**. Tíží vás nahrávání obrázků na webu? Poslední trendy pro jejich asynchronní načítání.
 - **[How z-index Works](http://bitsofco.de/how-z-index-works/)**. Jaká úskalí nám může přinést používání CSS vlastnosti z-index?
 - **[A Book Apart vydává nové knížky o responzivním designu](http://abookapart.com/blogs/press/77559111-new-responsive-design-books-from-ethan-marcotte-karen-mcgrane)**. Pozoruhodné jsou díky autorům, Ethan Marcotte vymyslel responzivní design a Karen McCrane zase mocně popularizuje obsahové strategie.
-- **[Video: Hiding Things with CSS](https://www.youtube.com/watch?v=pLokyKj10Gw)**. Při skrývání elementů pomocí CSS neexistuje pouze použití `display: none;`. Vždy je nutné zvážit důvody, proč element vůbec skrýváme a jaké nevýhody to může přinést.
-- **[Zurb Foundation 6](http://zurb.com/article/1416/foundation-6-is-here)**. V nové verzi Zurb Foundation se autoři rozhodli posunout možnosti webových frameworků zas o kus dál. Vytvořili nástroj, který by měl být vhodný jak na prototypování, tak pro snadné převedení vzniklého prototypu do finální podoby.
+- **[Video: Hiding Things with CSS](https://www.youtube.com/watch?v=pLokyKj10Gw)**. Při skrývání elementů pomocí CSS nemáme jen obligátní `display: none`. Vždy je nutné zvážit důvody, proč element vůbec skrýváme a jaké nevýhody to může přinést.
+- **[Zurb Foundation 6](http://zurb.com/article/1416/foundation-6-is-here)**. Autoři posunuli možnosti webových frameworků zase o kus dál. Vytvořili nástroj, který by měl být vhodný jak na prototypování, tak pro snadné převedení vzniklého prototypu do finální podoby.
 - **[Drupal 8](https://www.drupal.org/8)**. Nová verze známého CMS je na světě. Drupal 8 je unikátní koncept, kde se skloubí jak technické pokroky, tak zlepšení ergonomie práce pro uživatele.
 
 ## Co nového na VzhůruDolů.cz?
