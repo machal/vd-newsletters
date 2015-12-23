@@ -6,6 +6,8 @@
 - **[Interaktivní výuka CSS vlastnosti Flexbox.](http://flexboxfroggy.com/)** Flexbox Froggy je super nápad, jak pochopit možnosti CSS flexbox pomocí chytlavé hry. Opravdu pěkný počin.
 - **[Jaké výhody nám přinesou CSS proměnné?](http://philipwalton.com/articles/why-im-excited-about-native-css-variables/)** CSS proměnné si pomalu, ale jistě získávají podporu v prohlížečích. Článek popisuje nové techniky návrhu stylů, které se nám díky nim otevírají.
 - **[Přehled kurzorů.](http://css-cursor.techstream.org/)** Upravit vzhled kurzoru se může hodit např. pokud pracujete na vývoji webových aplikací. Tento web vše přehledně shrnuje a přidává i informaci o podporovaných prohlížečích.
+- **[CSS Modules - Welcome to the future.](http://glenmaddern.com/articles/css-modules)** ... zbývá dopsat ...
+- **[TIP: přiblížení produktové fotografie bez JavasScriptu](https://medium.com/@mjtweaver/css-product-magnification-without-javascript-497ab5932419#.2ktu9wese)** - Tento trik se často používá u eshopů. Existuje řada JavaScriptových pluginů. Toto elegantní řešení však ukazuje, že si můžeme vystačit jen s CSS.
 - **[VIDEO 1: Lets move!](https://www.youtube.com/watch?v=J6wUmQDQBkw)** - ... zbývá dopsat ..
 - **[VIDEO 2: Troubleshooting rendering performance issues](https://www.youtube.com/watch?v=2vFrZXWiwIc)** - Užitečné video z dílny Harry Robertse skvěle popisuje možnosti Chrome prohlížeče při odkrývání základních problémů ve vyrkeslování webu.
 
