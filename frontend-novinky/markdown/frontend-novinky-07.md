@@ -8,7 +8,7 @@
 - **[Přehled kurzorů.](http://css-cursor.techstream.org/)** Upravit vzhled kurzoru se může hodit např. pokud pracujete na vývoji webových aplikací. Tento web vše přehledně shrnuje a přidává i informaci o podporovaných prohlížečích.
 - **[CSS Modules - Welcome to the future.](http://glenmaddern.com/articles/css-modules)** ... zbývá dopsat ...
 - **[TIP: přiblížení produktové fotografie bez JavasScriptu](https://medium.com/@mjtweaver/css-product-magnification-without-javascript-497ab5932419#.2ktu9wese)** - Tento trik se často používá u eshopů. Existuje řada JavaScriptových pluginů. Toto elegantní řešení však ukazuje, že si můžeme vystačit jen s CSS.
-- **[VIDEO 1: Lets move!](https://www.youtube.com/watch?v=J6wUmQDQBkw)** - Dobře zvolená animace umožní vnímat vaší aplikaci tak, jako by se chovala rychleji. Přednáška poskytuje hned několik rad a zajímavých triků.
+- **[VIDEO 1: Lets move!](https://www.youtube.com/watch?v=J6wUmQDQBkw)** - Dobře zvolené animace mohou dát uživatelum pocit, že se web chová rychleji. Přednáška poskytuje hned několik rad a zajímavých triků, jak se dá toho docílit. Ukazuje ale také věci, kterých je dobré se vyvarovat.
 - **[VIDEO 2: Troubleshooting rendering performance issues](https://www.youtube.com/watch?v=2vFrZXWiwIc)** - Užitečné video z dílny Harry Robertse skvěle popisuje možnosti Chrome prohlížeče při odkrývání základních problémů ve vykreslování webu.
 
 
