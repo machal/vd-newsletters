@@ -2,14 +2,13 @@
 
 ## Rychlé tipy a triky
 
-- **[WebKit a podpora `<picture>` elementu.](https://twitter.com/webkit/status/672430609491431425?s=09)** Pro všechny prohlížeče postavené na jádře WebKit máme dobrou zprávu. Nově byla implementována nativní podpora `<picture>` elementu.
-- **[Interaktivní výuka CSS vlastnosti Flexbox.](http://flexboxfroggy.com/)** Flexbox Froggy je super nápad, jak pochopit možnosti CSS flexbox pomocí chytlavé hry. Opravdu pěkný počin.
-- **[Jaké výhody nám přinesou CSS proměnné?](http://philipwalton.com/articles/why-im-excited-about-native-css-variables/)** CSS proměnné si pomalu, ale jistě získávají podporu v prohlížečích. Článek popisuje nové techniky návrhu stylů, které se nám díky nim otevírají.
+- **[Interaktivní výuka CSS vlastnosti flexbox.](http://flexboxfroggy.com/)** Flexbox Froggy je super nápad, jak pochopit možnosti flexboxu pomocí chytlavé hry. Opravdu pěkný počin.
+- **[Why I'm Excited About Native CSS Variables](http://philipwalton.com/articles/why-im-excited-about-native-css-variables/)** CSS proměnné se liší od proměnných, které známe z preprocesorů. Článek popisuje nové techniky návrhu stylů, které se nám díky nim otevírají.
 - **[Přehled kurzorů.](http://css-cursor.techstream.org/)** Upravit vzhled kurzoru se může hodit např. pokud pracujete na vývoji webových aplikací. Tento web vše přehledně shrnuje a přidává informaci o podporovaných prohlížečích.
-- **[CSS Modules - Welcome to the future.](http://glenmaddern.com/articles/css-modules)** Při psaní stylů musíme neustále myslet na správnou volbu názvů tříd - snažíme se je dělat co nejobecnější. S CSS moduly tento problém odpadá. Už nikdy nebudete muset myslet na to, zda omylem nepřepíšete styly někde jinde na webu.
-- **[TIP: přiblížení produktové fotografie bez JavasScriptu](https://medium.com/@mjtweaver/css-product-magnification-without-javascript-497ab5932419#.2ktu9wese)** - Tento trik se často používá u eshopů. Existuje řada JavaScriptových pluginů. Toto elegantní řešení však ukazuje, že si můžeme vystačit jen s CSS.
-- **[VIDEO 1: Lets move!](https://www.youtube.com/watch?v=J6wUmQDQBkw)** - Dobře zvolené animace mohou dát uživatelum pocit, že se web chová rychleji. Přednáška poskytuje hned několik rad a zajímavých triků, jak se dá toho docílit. Ukazuje ale také věci, kterých je dobré se vyvarovat.
-- **[VIDEO 2: Troubleshooting rendering performance issues](https://www.youtube.com/watch?v=2vFrZXWiwIc)** - Užitečné video z dílny Harry Robertse skvěle popisuje možnosti Chrome prohlížeče při odkrývání základních problémů ve vykreslování webu.
+- **[CSS Modules - Welcome to the future.](http://glenmaddern.com/articles/css-modules)** Při psaní stylů pro webové aplikace musíme neustále myslet na správnou volbu názvů tříd - snažíme se je dělat co nejobecnější. S CSS moduly tento problém odpadá. Už nikdy nebudete muset myslet na to, zda omylem nepřepíšete styly někde jinde.
+- **[TIP: přiblížení produktové fotografie bez Javasscriptu](https://medium.com/@mjtweaver/css-product-magnification-without-javascript-497ab5932419#.2ktu9wese)** - Tento trik se často používá u eshopů. Existuje řada javascriptových pluginů. Toto elegantní řešení však ukazuje, že si můžeme vystačit jen s CSS.
+- **[VIDEO 1: Lets move!](https://www.youtube.com/watch?v=J6wUmQDQBkw)** - Zajímavá přednáška ukazující hned několik triků, se kterými lze vylepšit animace na webu. Například zjistíte, že pro animování se nevyplácí používat jednoduché funkce jako `linear` či `ease-in`, protože nevytváří dojem přirozeného pohybu.
+- **[VIDEO 2: Troubleshooting rendering performance issues](https://www.youtube.com/watch?v=2vFrZXWiwIc)** - Užitečné video z dílny Harry Robertse skvěle popisuje možnosti Chrome prohlížeče při odkrývání problémů ve vykreslování webu. Zapněte si *Enable Paint Flashing* a sledujte co se překresluje např. během scrollování.
 
 
 ## Co nového na VzhůruDolů.cz?
