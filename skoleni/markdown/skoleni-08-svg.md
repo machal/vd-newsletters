@@ -2,9 +2,9 @@
 
 Vektorové ikonky? To bychom SVG velmi podceňovali. Scalable Vector Graphics přináší do do tvorby webových uživatelských rozhraní jednu z největších inovací v posledních deseti letech. 
 
-SVG vás překvapí možnostmi interakcí, animací nebo pokročilými grafickým filtry či efekty k textu. Vše na celodenním kurzu, který vede zkušený senior developer Superkodérů Michal Matuška.
+SVG vás překvapí možnostmi interakcí, animací nebo pokročilými grafickým filtry či efekty k textu. Vše na celodenním kurzu, který vede zkušený senior developer SuperKodérů Michal Matuška.
 
-Termíny jsme vypsali na 16. února a 15. března. A pozor, při uvedení kódu **SVGVANOCE** dostanete na první termín školení 20% slevu z ceny.
+Termíny jsme vypsali na 16. února a 15. března. A pozor, při uvedení kódu **„SVGVANOCE“** dostanete na první termín školení **20% slevu z ceny**. Sleva platí při objednávce do 18. prosince.
 
 [ *** Objednat místo *** ](http://www.vzhurudolu.cz/kurzy/bootstrap#objednavka)
 
