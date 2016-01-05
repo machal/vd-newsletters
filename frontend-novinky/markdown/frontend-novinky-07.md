@@ -10,7 +10,7 @@ React, Browserify, Webpack, CssModules… tohle všechno je skvělé. Pro webov�
 
 ## 3) Adobe Comet
 
-Naprosto pochopitelný úkrok od Photoshopu jako nástroje pro webdesign pokračuje. Blížíme se do cílové rovinky. Po přechodu velké části designérů na Sketch, po ukončení vývoje Fireworks, po letech čtení Photoshop hejtů… Po tom všem Adobe přichází s demem nástroje pro komplexní návrh UX. [Nástrojem, který vypadá skvěle](http://landing.adobe.com/en/na/products/creative-cloud/comet/229818-notifyme.html). Doufejme, že to nebude jen kometa.
+Naprosto pochopitelný úkrok od Photoshopu jako nástroje pro webdesign pokračuje. Blížíme se do cílové rovinky? Po přechodu velké části designérů na Sketch, po ukončení vývoje Fireworks, po letech čtení Photoshop hejtů… Po tom všem loni Adobe přišlo s demem nástroje pro komplexní návrh UX. Zatím ho nelze hodnotit, ale [vypadá skvěle](http://landing.adobe.com/en/na/products/creative-cloud/comet/229818-notifyme.html) a hlavně nám ukazuje, že od Photoshopu nás chce osvobodit i jeho mateřská firma. Doufejme, že to nebude jen kometa.
 
 ## 4) EU cookies
 
