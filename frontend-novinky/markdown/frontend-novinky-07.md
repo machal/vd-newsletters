@@ -1,4 +1,4 @@
-# Rok 2015 ve webdesignu? S důrazem na kodéřinu pochopitelně
+# Rok 2015 ve webdesignu. S důrazem na kodéřinu pochopitelně
 
 ## 1) Javascriptový boom - React, isomorfní appky a spol.
 
