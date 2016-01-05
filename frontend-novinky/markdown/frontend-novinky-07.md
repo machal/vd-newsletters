@@ -59,4 +59,4 @@ Do Nového roku přejeme hodně sil a spoustu příjemných projektů.
 
 Martin Michálek ([@machal](http://www.twitter.com/machal)) & Martin Pešout ([@martinpesout](http://www.twitter.com/martinpesout))
 
-PS: Máme také newsletter k pořádaným školením. Může se hodit – jako první se například dozvíte o nových školeních. [Přihlase se zde](http://eepurl.com/SbG71).
+PS: Máme také newsletter k pořádaným školením. Může se hodit – jako první se například dozvíte o nových školeních. [Přihlaste se zde](http://eepurl.com/SbG71).
