@@ -1,1 +1,2069 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rol",
+				"role	HTML role=\"main\""
+			],
+			[
+				"role",
+				"role	HTML role=\"navigation\""
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"input",
+				"inputt	input - text"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"select",
+				"select	Tag"
+			],
+			[
+				"op",
+				"optgroup	Tag"
+			],
+			[
+				"sle",
+				"select	Tag"
+			],
+			[
+				"sel",
+				"select	Tag"
+			],
+			[
+				"row",
+				"rows	Attr"
+			],
+			[
+				"seco",
+				"secondEye〔variable〕"
+			],
+			[
+				"data-",
+				"data-toggle=〔attribute〕"
+			],
+			[
+				"requir",
+				"require_once〔keyword〕"
+			],
+			[
+				"label",
+				"label	<label>"
+			],
+			[
+				"max",
+				"maxHeight"
+			],
+			[
+				"fad",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"criti",
+				"criticalcss"
+			],
+			[
+				"product-",
+				"product-item"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"append",
+				"appendTo  (function)"
+			],
+			[
+				"va",
+				"vasecocky"
+			],
+			[
+				"ready",
+				"ready	$(document).ready"
+			],
+			[
+				"read",
+				"ready	$(document).ready"
+			],
+			[
+				"logos",
+				"logos_svg"
+			],
+			[
+				"loa",
+				"loadNpmTasks"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"remov",
+				"removeClass	.removeClass"
+			],
+			[
+				"on",
+				"on(events, selector, data, handler(eventObject), events, selector, data) -> $"
+			],
+			[
+				"font-siz",
+				"font-size-base"
+			],
+			[
+				"svg",
+				"svg2png"
+			],
+			[
+				"css",
+				"cssmin"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"backgroun",
+				"background-image"
+			],
+			[
+				"ta",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"head",
+				"headingFontSize"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"body",
+				"body-font-color-lighter"
+			],
+			[
+				"cu",
+				"cur:p	cursor:pointer"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"lh",
+				"line-height"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"ligh",
+				"lighter-beige-color"
+			],
+			[
+				"lig",
+				"lightest-beige-color"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"url",
+				"webicons-url"
+			],
+			[
+				"prin",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "skoleni/skoleni-08-svg.html",
+			"settings":
+			{
+				"buffer_size": 23243,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "skoleni/skoleni-09-js.html",
+			"settings":
+			{
+				"buffer_size": 22145,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Remote:   origin @ https://github.com/machal/vd-newsletters.git\nLocal:    master ~/Sites/vd-newsletters\nHead:     cecb655 Newsletter ke skoleni - Principy JS\n\n\nNothing to commit (working directory clean)\n\n# Movement:\n#    r = refresh status\n#    1-5 = jump to section\n#    n = next item, N = next section\n#    p = previous item, P = previous section\n#\n# Staging:\n#    s = stage file/section, S = stage all unstaged files\n#    ctrl+shift+s = stage all unstaged and untracked files\n#    u = unstage file/section, U = unstage all files\n#    backspace = discard file/section, shift+backspace = discard everything\n#\n# Commit:\n#    c = commit, C = commit -a (add unstaged)\n#    ctrl+shift+c = commit --amend (amend previous commit)\n#\n# Other:\n#    i = ignore file, I = ignore pattern\n#    enter = open file\n#    d = view diff\n#\n# Stashes:\n#    a = apply stash, A = pop stash\n#    z = create stash, Z = create stash including untracked files\n#    backspace = discard stash",
+			"settings":
+			{
+				"buffer_size": 965,
+				"line_ending": "Unix",
+				"name": "*git-status*: vd-newsletters",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 147.0,
+		"last_filter": "push",
+		"selected_items":
+		[
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"renam",
+				"Emmet: Rename Tag"
+			],
+			[
+				"tag",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"set syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"sett",
+				"Preferences: Settings - User"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"latt",
+				"Set Syntax: Latte"
+			],
+			[
+				"terminal",
+				"Terminal: Open in project folder"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"settin",
+				"Preferences: Settings - User"
+			],
+			[
+				"termina",
+				"Terminal: Open in project folder"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"termin",
+				"Terminal: Open in project folder"
+			],
+			[
+				"git",
+				"Git: Log"
+			],
+			[
+				"git log",
+				"Git: Log"
+			],
+			[
+				"termi",
+				"Terminal: Open in project folder"
+			],
+			[
+				"term",
+				"Terminal: Open in project folder"
+			],
+			[
+				"gits ta",
+				"Git: Status"
+			],
+			[
+				"gits tatu",
+				"Git: Status"
+			],
+			[
+				"grunt ",
+				"Grunt"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"rename",
+				"Emmet: Rename Tag"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"git com",
+				"Git: Custom Command"
+			],
+			[
+				"git che",
+				"Git: Checkout"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"git sta",
+				"Git: Stash"
+			],
+			[
+				"gru",
+				"Grunt"
+			],
+			[
+				"git pul",
+				"Git: Pull"
+			],
+			[
+				"grut",
+				"Grunt"
+			],
+			[
+				"git remote",
+				"Git: Remote"
+			],
+			[
+				"che",
+				"Git: Checkout"
+			],
+			[
+				"chek",
+				"Git: Checkout"
+			],
+			[
+				"check",
+				"Git: Checkout"
+			],
+			[
+				"git remo",
+				"Git: Remote"
+			],
+			[
+				"git check",
+				"Git: Checkout"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"git l",
+				"Git: Log"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"log",
+				"Git: Log"
+			],
+			[
+				"remote",
+				"Git: Remote"
+			],
+			[
+				"new bra",
+				"Git: Checkout New Branch"
+			],
+			[
+				"grutn",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"merge",
+				"Git: Merge"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"git new",
+				"Git: Checkout New Branch"
+			],
+			[
+				"git chec",
+				"Git: Checkout"
+			],
+			[
+				"git comma",
+				"Git: Custom Command"
+			],
+			[
+				"git ini",
+				"Git: Init"
+			],
+			[
+				"git init",
+				"Git: Init"
+			],
+			[
+				"git add",
+				"Git: Add Remote"
+			],
+			[
+				"add remo",
+				"Git: Add Remote"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"media",
+				"Snippet: Media Queries"
+			],
+			[
+				"stop",
+				"Set Syntax: SFTP Output Panel"
+			],
+			[
+				"git s",
+				"Git: Show"
+			],
+			[
+				"schemr",
+				"Schemr: List all schemes"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"image",
+				"Emmet: Update Image Size"
+			],
+			[
+				"rena",
+				"Emmet: Rename Tag"
+			],
+			[
+				"remove ",
+				"Emmet: Remove Tag"
+			],
+			[
+				"git show",
+				"Git: Show"
+			],
+			[
+				"remove",
+				"Emmet: Remove Tag"
+			],
+			[
+				"remo",
+				"Emmet: Remove Tag"
+			],
+			[
+				"remov",
+				"Emmet: Remove Tag"
+			],
+			[
+				"goto",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"reove",
+				"Emmet: Remove Tag"
+			],
+			[
+				"chec",
+				"Git: Checkout"
+			],
+			[
+				"selection",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"code",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"mer",
+				"Git: Merge"
+			],
+			[
+				"sche",
+				"Schemr: List all schemes"
+			],
+			[
+				"branch",
+				"Git: Checkout New Branch"
+			],
+			[
+				"show",
+				"Git: Show"
+			],
+			[
+				"ftp",
+				"Preferences: SFTP Settings"
+			],
+			[
+				"schem",
+				"Schemr: List all schemes"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"user ",
+				"Preferences: Settings - User"
+			],
+			[
+				"shemr",
+				"Schemr: List favorite schemes"
+			],
+			[
+				"cheme",
+				"Schemr: List all schemes"
+			],
+			[
+				"emme",
+				"Set Syntax: Emmet"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"new br",
+				"Git: Checkout New Branch"
+			],
+			[
+				"latte",
+				"Set Syntax: Latte"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"syncing",
+				"Package Syncing: Push Settings"
+			],
+			[
+				"package sync",
+				"Package Syncing: Define Sync Folder"
+			],
+			[
+				"meda",
+				"Snippet: Media Queries"
+			],
+			[
+				"merg",
+				"Git: Merge"
+			],
+			[
+				"checkou",
+				"Git: Checkout Tag"
+			],
+			[
+				"checko",
+				"Git: Checkout Commit"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"sftp",
+				"Preferences: SFTP Settings"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"side bar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"Snippet: script",
+				"Snippet: <script>"
+			],
+			[
+				"hover",
+				"Snippet: CSS hover, focus, active"
+			],
+			[
+				"chekc",
+				"Git: Checkout"
+			],
+			[
+				"newbra",
+				"Git: Checkout New Branch"
+			],
+			[
+				"toc",
+				"MarkdownTOC:Update TOC"
+			],
+			[
+				"new ba",
+				"Git: Checkout New Branch"
+			],
+			[
+				"git bra",
+				"Git: Checkout New Branch"
+			],
+			[
+				"new bran",
+				"Git: Checkout New Branch"
+			],
+			[
+				"update",
+				"Emmet: Update Image Size"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"comment",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"comme",
+				"Snippet: HTML comment"
+			],
+			[
+				"add lic",
+				"SublimeGit: Add License"
+			],
+			[
+				"medi",
+				"Snippet: Media Queries"
+			],
+			[
+				"select",
+				"Bookmarks: Select Next"
+			],
+			[
+				"match",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"medi	",
+				"Snippet: Media Queries"
+			],
+			[
+				"div",
+				"Snippet: DIV with end comments"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 483.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"sublime.log_input(False)",
+			"sublime.log_input(false)",
+			"clear",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"sublime.log_input(True)",
+			"ls",
+			"ll",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/machal/Sites/vd-newsletters",
+		"/Users/machal/Sites/vd-newsletters/skoleni"
+	],
+	"file_history":
+	[
+		"/Users/machal/Sites/vd-web/www/assets/scss/modules/vd-card.scss",
+		"/Users/machal/Sites/vd-web/www/app/templates/Courses/list.latte",
+		"/Users/machal/Sites/vd-web/www/assets/scss/core/vd-helpers.scss",
+		"/Users/machal/Sites/ebook-generator/cssmine/src/metadata.xml",
+		"/Users/machal/Sites/ebook-generator/cssmine/README.md",
+		"/Users/machal/Sites/ebook-generator/bower.json",
+		"/Users/machal/Sites/ebook-generator/cssmine/src/vdcss3.php",
+		"/Users/machal/Sites/ebook-generator/cssmine/src/README.txt",
+		"/Users/machal/Sites/ebook-generator/cssmine/src/transform.php",
+		"/Users/machal/Sites/ebook-generator/vdcss3/README.md",
+		"/Users/machal/Sites/ebook-generator/vdcss3/src/vdcss3.php",
+		"/Users/machal/Sites/ebook-generator/vdcss3/src/transform.php",
+		"/Users/machal/Sites/ebook-generator/vdcss3/vdcss3.html",
+		"/Users/machal/Sites/vd-prirucka/Gruntfile.js",
+		"/Users/machal/Sites/vd-prirucka/content/css3-background-size.md",
+		"/Users/machal/Sites/vd-prirucka/content/svg.md",
+		"/Users/machal/Sites/vd-prirucka/content/bower.md",
+		"/Users/machal/Sites/vd-prirucka/content/css3-border-image.md",
+		"/Users/machal/Sites/vd-prirucka/content/css3-box-sizing.md",
+		"/Users/machal/Sites/vd-prirucka/content/responzivni-obrazky.md",
+		"/Users/machal/Sites/vd-prirucka/src/images/background-size-cover-contain.svg",
+		"/Users/machal/Sites/vd-prirucka/css3-border-radius.md",
+		"/Users/machal/Sites/vd-prirucka/package.json",
+		"/Users/machal/Sites/vd-prirucka/grunt.md",
+		"/Users/machal/Sites/vd-prirucka/css3-flexbox.md",
+		"/Users/machal/Sites/vd-prirucka/css3-box-sizing.md",
+		"/Users/machal/Sites/vd-prirucka/css3-border-image.md",
+		"/Users/machal/Sites/vd-prirucka/grunt-pluginy.md",
+		"/Users/machal/Sites/vd-prirucka/css3-background-size.md",
+		"/Users/machal/Sites/vd-prirucka/css3-media-queries.md",
+		"/Users/machal/Sites/vd-prirucka/webovy-koder.md",
+		"/Users/machal/Desktop/NOTES.txt",
+		"/Users/machal/Sites/vd-prirucka/node-instalace.md",
+		"/Users/machal/Sites/cssmine-web/www/app/bootstrap.php",
+		"/Users/machal/Sites/cssmine-web/www/app/config/content.neon",
+		"/Users/machal/Sites/cssmine-web/www/app/templates/Homepage/default.latte",
+		"/Users/machal/Sites/cssmine-web/www/app/templates/Homepage/content.latte",
+		"/Users/machal/Sites/cssmine-web/www/app/templates/@layout.latte",
+		"/Users/machal/Sites/cssmine-web/www/app/components/contentTable.latte",
+		"/Users/machal/Sites/vd-web/www/NOTES.txt",
+		"/Users/machal/Sites/vd-web/www/app/templates/include/ebook-order.latte",
+		"/Users/machal/Sites/vd-web/www/app/templates/Ebook/info.latte",
+		"/Users/machal/Sites/vd-web/www/app/templates/Courses/info.latte",
+		"/Users/machal/Sites/vd-web/www/app/templates/Ebook/default.latte",
+		"/Users/machal/Sites/vd-web/www/assets/scss/modules/pages/vd-ebook.scss",
+		"/Users/machal/Sites/vd-web/www/assets/scss/core/vd-mixins.scss",
+		"/Users/machal/Sites/vd-web/www/app/templates/Ebook/licences.latte",
+		"/Users/machal/Sites/vd-web/www/assets/scss/layout/vd-section.scss",
+		"/Users/machal/Sites/vd-web/www/assets/scss/core/vd-variables.scss",
+		"/Users/machal/Sites/vd-web/www/assets/js/index.js",
+		"/Users/machal/Sites/vd-web/www/app/templates/Ebook/toc.latte",
+		"/Users/machal/Sites/vd-web/www/assets/css/vrdl.css",
+		"/Users/machal/Sites/vd-web/www/assets/scss/index.scss",
+		"/Users/machal/Sites/vd-web/www/assets/scss/base/vd-base.scss",
+		"/Users/machal/Sites/vd-web/www/assets/scss/modules/vd-form.scss",
+		"/Users/machal/Sites/vd-web/www/Gruntfile.js",
+		"/Users/machal/Sites/vd-web/www/assets/scss/modules/vd-raised.scss",
+		"/Users/machal/Sites/vd-web/www/assets/scss/modules/vd-box.scss",
+		"/Users/machal/Sites/vd-web/www/app/config/config.neon",
+		"/Users/machal/Sites/vd-web/www/assets/scss/modules/vd-courses-list.scss",
+		"/Users/machal/Sites/vd-web/www/app/templates/Ebook/reviews.latte",
+		"/Users/machal/Sites/vd-web/www/reviews.latte",
+		"/Users/machal/Sites/vd-web/www/app/templates/Email/mailMartin.latte",
+		"/Users/machal/Sites/vd-web/www/app/templates/Courses/detail.latte",
+		"/Users/machal/Sites/vd-web/www/assets/img/content/src/skoleni_svg_big.svg",
+		"/Users/machal/Sites/vd-web/www/assets/img/content/src/skoleni_svg_thumb.svg",
+		"/Users/machal/Sites/vd-web/www/app/config/sections.neon",
+		"/Users/machal/Sites/vd-web/www/app/router/RouterFactory.php",
+		"/Users/machal/Sites/vd-web/www/assets/scss/modules/vd-avatar.scss",
+		"/Users/machal/Sites/vd-ebook-css3-content/nastroje-node-js.md",
+		"/Users/machal/Sites/vd-ebook-css3-content/uvod.md",
+		"/Users/machal/Sites/vd-ebook-css3-content/zaver.md",
+		"/Users/machal/Sites/vd-ebook-css3-content/pred-uvod.md",
+		"/Users/machal/Sites/vd-ebook-css3-content/nastroje-buildovani.md",
+		"/Users/machal/Sites/vd-ebook-css3-content/nastroje-npm-bower.md",
+		"/Users/machal/Sites/vd-ebook-css3-content/nastroje.md",
+		"/Users/machal/Sites/vd-ebook-css3-content/fallback-strategie-css3.md",
+		"/Users/machal/Sites/vd-ebook-css3-content/nastroje-atd.md",
+		"/Users/machal/Sites/vd-ebook-css3-content/nastroje-browserstack.md",
+		"/Users/machal/Sites/vd-ebook-css3-content/nastroje-preprocesory.md",
+		"/Users/machal/Sites/vd-ebook-css3-content/zmeny-2.md",
+		"/Users/machal/Sites/vd-ebook-css3-content/zmeny-5.md",
+		"/Users/machal/Sites/vd-ebook-css3-content/zmeny-7.md",
+		"/Users/machal/Sites/vd-ebook-css3-content/fallback-strategie.md",
+		"/Users/machal/Sites/vd-ebook-css3-content/nastroje-efektivita-prevodu.md",
+		"/Users/machal/Sites/vd-ebook-css3-content/nastroje-bootstrap.md",
+		"/Users/machal/Sites/vd-ebook-css3-content/font-face-tipy.md",
+		"/Users/machal/Sites/vd-ebook-css3-content/animations-priklady.md",
+		"/Users/machal/Sites/vd-ebook-css3-content/flexbox-priklady.md",
+		"/Users/machal/Sites/vd-ebook-css3-content/flexbox-prohlizece.md",
+		"/Users/machal/Sites/vd-ebook-css3-content/flexbox-reference.md",
+		"/Users/machal/Sites/vd-ebook-css3-content/nastroje-browsersync.md",
+		"/Users/machal/Sites/vd-ebook-css3-content/nastroje-oocss.md",
+		"/Users/machal/Sites/vd-ebook-css3-content/nastroje-postprocesing.md",
+		"/Users/machal/Sites/vd-ebook-css3-content/zmeny-6.md",
+		"/Users/machal/Sites/vd-prirucka/css3-animations.md",
+		"/Users/machal/Sites/vd-prirucka/css3-box-reflection.md",
+		"/Users/machal/Sites/vd-prirucka/css3-box-shadow.md",
+		"/Users/machal/Sites/vd-prirucka/css3-jednotky.md",
+		"/Users/machal/Sites/vd-prirucka/css3-multicolumn.md",
+		"/Users/machal/Sites/vd-prirucka/css3-rgba.md",
+		"/Users/machal/Sites/vd-prirucka/css3-text-overflow.md",
+		"/Users/machal/Sites/vd-prirucka/css3-transforms.md",
+		"/Users/machal/Sites/vd-prirucka/css3-transitions.md",
+		"/Users/machal/Sites/vd-prirucka/fallback.md",
+		"/Users/machal/Sites/vd-prirucka/lazy-loading.md",
+		"/Users/machal/Sites/vd-prirucka/prefix.md",
+		"/Users/machal/Sites/vd-prirucka/responzivni-obrazky.md",
+		"/Users/machal/Sites/vd-prirucka/viewport-meta.md",
+		"/Users/machal/Sites/vd-prirucka/viewport-windows.md",
+		"/Users/machal/Sites/vd-ebook-css3-content/vd-ebook-css3-content.sublime-project",
+		"/Users/machal/Sites/rekrea/www/Gruntfile.js",
+		"/Users/machal/Sites/rekrea/www/rekrea/web/ck-rekrea.cz/dovolena/less/index.less",
+		"/Users/machal/Sites/rekrea/www/rekrea/web/ck-rekrea.cz/dovolena/less/sites/custom/rekrea.less",
+		"/Users/machal/Sites/rekrea/www/rekrea/web/ck-rekrea.cz/dovolena/less/modules/box.less",
+		"/Users/machal/Sites/rekrea/www/rekrea/web/ck-rekrea.cz/dovolena/less/modules/collapse.less",
+		"/Users/machal/Sites/rekrea/www/rekrea/web/ck-rekrea.cz/dovolena/less/modules/inline-list.less",
+		"/Users/machal/Sites/rekrea/www/rekrea/web/ck-rekrea.cz/dovolena/less/modules/nav_inside.less",
+		"/Users/machal/Sites/rekrea/www/rekrea/web/ck-rekrea.cz/dovolena/less/modules/price_table.less",
+		"/Users/machal/Sites/rekrea/www/rekrea/web/ck-rekrea.cz/dovolena/css/sites/rekrea.css",
+		"/Users/machal/Sites/rekrea/www/rekrea/web/ck-rekrea.cz/dovolena/less/lib/datepicker.less",
+		"/Users/machal/Sites/rekrea/www/rekrea/web/ck-rekrea.cz/dovolena/less/lib/bootstrap-forms.less",
+		"/Users/machal/Sites/rekrea/www/rekrea/web/ck-rekrea.cz/dovolena/less/layout/layout.less",
+		"/Users/machal/Sites/rekrea/www/package.json",
+		"/Users/machal/Sites/rekrea/www/rekrea/web/ck-rekrea.cz/dovolena/less/base/body.less",
+		"/Users/machal/Sites/rekrea/www/rekrea/web/ck-rekrea.cz/dovolena/less/modules/soft-head.less",
+		"/Users/machal/Sites/rekrea/www/rekrea/web/ck-rekrea.cz/dovolena/less/modules/images-list.less",
+		"/Users/machal/Sites/rekrea/www/rekrea/web/ck-rekrea.cz/dovolena/less/modules/content_head.less"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 319.0,
+		"where_history":
+		[
+			"/Users/machal/Sites/vd-prirucka",
+			"/Users/machal/Sites/cssmine-web/www/content",
+			"/Users/machal/Sites/vd-web/www/app",
+			"/Users/machal/Sites/vd-web/www/app/templates",
+			"/Users/machal/Sites/vd-ebook-css3-content",
+			"/Users/machal/Sites/rekrea/www/rekrea/web/ck-rekrea.cz/dovolena/less",
+			"/Users/machal/Sites/rekrea/www/rekrea/web/_includes/templates",
+			"/Users/machal/Sites/rekrea/www/rekrea/web/",
+			"/Users/machal/Sites/rekrea/www/rekrea/web/_includes/templates",
+			"/Users/machal/Sites/rekrea/www/rekrea/web/",
+			"/Users/machal/Sites/rekrea/www/rekrea/web/_includes/",
+			"/Users/machal/Sites/rekrea/www/rekrea/web/_includes/templates",
+			"/Users/machal/Sites/rekrea/www/rekrea/web/ck-rekrea.cz/dovolena/less",
+			"/Users/machal/Sites/rekrea/www/rekrea/web/",
+			"/Users/machal/Sites/rekrea/www/rekrea/web/_includes/templates",
+			"/Users/machal/Sites/rekrea/www/rekrea/web/ck-rekrea.cz/dovolena/less",
+			"/Users/machal/Sites/rekrea/www/rekrea/web/_includes/templates",
+			"/Users/machal/Sites/rekrea/www/rekrea/web/",
+			"/Users/machal/Sites/rekrea/www/rekrea/web/_includes",
+			"/Users/machal/Sites/rekrea/www/rekrea/web/_includes/templates",
+			"/Users/machal/Sites/rekrea/www/rekrea/web/",
+			"/Users/machal/Sites/rekrea/www/rekrea/web/_includes/templates",
+			"/Users/machal/Sites/rekrea/www/rekrea/web/",
+			"/Users/machal/Sites/rekrea/www/rekrea/web/ck-rekrea.cz/dovolena/less",
+			"/Users/machal/Sites/rekrea/www/rekrea/web/ck-rekrea.cz",
+			"/Users/machal/Sites/rekrea/www/rekrea/web/",
+			"/Users/machal/Sites/rekrea/www/rekrea/web/_includes/templates",
+			"/Users/machal/Sites/rekrea/www/rekrea/web/ck-rekrea.cz/dovolena/less",
+			"/Users/machal/Sites/rekrea/www/rekrea/web/_includes/templates",
+			"/Users/machal/Sites/rekrea/www/rekrea/web/ck-rekrea.cz/dovolena/less",
+			"/Users/machal/Sites/rekrea/www/rekrea/web/_includes/templates",
+			"/Users/machal/Sites/rekrea/www/rekrea/web/ck-rekrea.cz/dovolena/less",
+			"/Users/machal/Sites/vzhurudolu/www/app",
+			"/Users/machal/Sites/_rekrea-weby/www/rekrea/web/_includes/templates",
+			"/Users/machal/Sites/_rekrea-weby/www/rekrea/web/_includes",
+			"/Users/machal/Sites/vzhurudolu/www/app",
+			"/Users/machal/Sites/vzhurudolu/www/assets",
+			"/Users/machal/Sites/vzhurudolu/www/app",
+			"/Users/machal/Sites/vasecocky.cz/prototyp",
+			"/Users/machal/Sites/vzhurudolu/www/app",
+			"/Users/machal/Sites/vzhurudolu/www/assets/scss",
+			"/Users/machal/Sites/vzhurudolu/www/app",
+			"/Users/machal/Sites/vzhuru-do-css3/src,*.md",
+			"/Users/machal/Sites/vzhuru-do-css3/src",
+			"/Users/machal/Sites/vzhuru-do-css3/src/exclusive",
+			"/Users/machal/Sites/_rekrea-weby/www/rekrea/web/ck-rekrea.cz/",
+			"/Users/machal/Sites/_rekrea-weby/www/rekrea/web/ck-rekrea.cz/dovolena/less",
+			"/Users/machal/Sites/vzhuru-do-css3/src/prirucka,*.md",
+			"/Users/machal/Sites/vzhuru-do-css3/src/exclusive,*.md",
+			"/Users/machal/Sites/vzhuru-do-css3/src/exclusive,*.txt",
+			"/Users/machal/Sites/vzhuru-do-css3/src/exclusive/*.md",
+			"/Users/machal/Sites/vzhuru-do-css3/src/exclusive",
+			"/Users/machal/Sites/vzhuru-do-css3/src/prirucka",
+			"/Users/machal/Sites/vzhuru-do-css3/src",
+			"/Users/machal/Sites/vzhuru-do-css3",
+			"/Users/machal/Sites/vasecocky.cz/prototyp/src/less",
+			"/Users/machal/Sites/vasecocky.cz/prototyp/_components",
+			"/Users/machal/Sites/vasecocky.cz/prototyp",
+			"/Users/machal/Sites/vasecocky.cz/prototyp/src",
+			"/Users/machal/Sites/vasecocky.cz/prototyp/",
+			"/Users/machal/Sites/vasecocky.cz/prototyp/_components",
+			"/Users/machal/Sites/vasecocky.cz/prototyp/src",
+			"/Users/machal/Sites/vasecocky.cz/prototyp",
+			"/Users/machal/Sites/vzhurudolu/www/app/",
+			"/Users/machal/Sites/vzhurudolu/www/assets/scss",
+			"/Users/machal/Sites/vzhurudolu/www/app",
+			"/Users/machal/Sites/vzhurudolu/www/perch",
+			"/Users/machal/Sites/vzhurudolu/www/",
+			"/Users/machal/Sites/vzhurudolu/www/app",
+			"/Users/machal/Sites/vzhurudolu/www/app/templates",
+			"/Users/machal/Sites/vasecocky.cz/prototyp/,*.less,*.php",
+			"/Users/machal/Sites/vasecocky.cz/prototyp/",
+			"/Users/machal/Sites/vasecocky.cz/prototyp/,*.less",
+			"/Users/machal/Sites/vasecocky.cz/prototyp/**/*.less",
+			"/Users/machal/Sites/vasecocky.cz/prototyp/",
+			"/Users/machal/Sites/vasecocky.cz/prototyp/_pages/",
+			"/Users/machal/Sites/vasecocky.cz/prototyp/_components/",
+			"/Users/machal/Sites/vasecocky.cz/prototyp/_pages/",
+			"/Users/machal/Sites/vasecocky.cz/_pages/",
+			"/Users/machal/Sites/vasecocky.cz/_pages",
+			"/Users/machal/Sites/vasecocky.cz/pages",
+			"/Users/machal/Sites/vasecocky.cz/prototyp,-dist/**,-bower_components/**",
+			"/Users/machal/Sites/vasecocky.cz/prototyp,-/Users/machal/Sites/vasecocky.cz/prototyp/dist/,-/Users/machal/Sites/vasecocky.cz/prototyp/bower_components/",
+			"/Users/machal/Sites/vasecocky.cz/prototyp,-dist/,-bower_components/",
+			"/Users/machal/Sites/vasecocky.cz/prototyp,-dist/**,-bower_components/**",
+			"/Users/machal/Sites/vasecocky.cz/prototyp,-dist/**",
+			"/Users/machal/Sites/vasecocky.cz/prototyp",
+			"/Users/machal/Sites/vasecocky.cz/prototyp/",
+			"/Users/machal/Sites/vasecocky.cz/prototyp/_pages",
+			"/Users/machal/Sites/vasecocky.cz/prototyp/_components",
+			"/Users/machal/Sites/vasecocky.cz/prototyp",
+			"/Users/machal/Sites/vasecocky.cz/prototyp/src",
+			"/Users/machal/Sites/vasecocky.cz/prototyp/_components",
+			"/Users/machal/Sites/vasecocky.cz/prototyp/src",
+			"/Users/machal/Sites/vasecocky.cz/prototyp/_pages",
+			"/Users/machal/Sites/vasecocky.cz/prototyp/_components",
+			"/Users/machal/Sites/vasecocky.cz/prototyp",
+			"/Users/machal/Sites/vzhurudolu/www/assets/scss",
+			"/Users/machal/Sites/vzhurudolu/www/assets/scss/modules",
+			"/Users/machal/Sites/vzhurudolu/www/assets/scss",
+			"/Users/machal/Sites/old/particip.tv/www",
+			"/Users/machal/Sites/_rekrea-weby/www/rekrea/web/_includes",
+			"/Users/machal/Sites/_rekrea-weby/www/rekrea/web/",
+			"/Users/machal/Sites/_rekrea-weby/www/rekrea/web/_includes/",
+			"/Users/machal/Sites/_rekrea-weby/www/rekrea/web/_includes/templates",
+			"/Users/machal/Sites/_rekrea-weby/www/rekrea/web/ck-rekrea.cz/dovolena/less",
+			"/Users/machal/Sites/_rekrea-weby/www/rekrea/web/_includes/",
+			"/Users/machal/Sites/_rekrea-weby/www/rekrea/web/_includes/templates",
+			"/Users/machal/Sites/_rekrea-weby/www/rekrea/web/ck-rekrea.cz/dovolena/less",
+			"/Users/machal/Sites/_rekrea-weby/www/rekrea/web/_includes/",
+			"/Users/machal/Sites/_rekrea-weby/www/rekrea/web/_includes/templates",
+			"/Users/machal/Sites/_rekrea-weby/www/rekrea",
+			"/Users/machal/Sites/_rekrea-weby/www/_includes",
+			"/Users/machal/Sites/test/bootstrap-reference/bootstrap/less",
+			"/Users/machal/Sites/netdevelo/shopsys6/app/config",
+			"/Users/machal/Sites/hippos/www/app",
+			"/Users/machal/Sites/_rekrea-weby/www/rekrea/web/_includes",
+			"/Users/machal/Sites/_rekrea-weby/www/rekrea/web",
+			"/Users/machal/Sites/_rekrea-weby/www/rekrea",
+			"/Users/machal/Sites/_rekrea-weby/www",
+			"/Users/machal/Sites/_rekrea-weby",
+			"/Users/machal/Sites/_rekrea-weby/www",
+			"/Users/machal/Sites/_rekrea-weby/www/rekrea",
+			"/Users/machal/Sites/hippos/www",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"javasc",
+			"zmeny",
+			"prirucka/content",
+			"prirucka/content-ebook/",
+			"vdcss3",
+			"'../bower_components",
+			"rwd-obrazky-priklad-layout.jpg",
+			"/web/",
+			"/web/20151005084650im_/",
+			"](#",
+			"original/css3",
+			"border-r",
+			"![",
+			"modernizr.com",
+			"span",
+			"free:",
+			"current",
+			"h5",
+			"- ",
+			"v1-1",
+			"postup\"",
+			"\"postup",
+			"ceny",
+			"-2",
+			"em;",
+			"backg",
+			"ebook-ukazka",
+			".jpg",
+			"input[type",
+			"hover",
+			"-ex",
+			"content",
+			"vd-raised",
+			"vd-",
+			"vd-raised",
+			"ebook-raised",
+			" class=\"ebook-sample\"",
+			"obrazky",
+			"ebook-ukazka-obrazky.png",
+			"<img",
+			"p",
+			"courses-list-inhouse-item",
+			"autor",
+			"minor",
+			"aktua",
+			"pdf ver",
+			"pdf vez",
+			"bottom",
+			"small",
+			"discount",
+			"Počet účastníků",
+			"Kurz 10",
+			"cards",
+			" courses-list-trainer--last",
+			"-train",
+			"npm",
+			"autor",
+			"aut",
+			"autor",
+			"cssne",
+			"li jsme",
+			"moderniz",
+			"modernizr",
+			"-webkit",
+			"-webk",
+			"body.ajax",
+			".col",
+			"inline",
+			"font",
+			"rywal.cz",
+			"boxSide",
+			".boxSide",
+			"#boxSide",
+			"#boxContent",
+			"admin2",
+			"#heade",
+			"#content",
+			"content",
+			"reservation_form",
+			"accommodation_big_items",
+			"tab_nights_count",
+			"head_aside",
+			"slovnik-input",
+			"banner_bottom",
+			"numbered",
+			"nr_item",
+			"home_main",
+			"head_with_border",
+			"bg_box",
+			"discount_in_list_item",
+			"big_label",
+			"=\"big_label",
+			"=\"date",
+			"accommodation_big_item",
+			"more_link",
+			"\"pagination",
+			"mapa_okoli",
+			"map_container",
+			"map_bubble",
+			"map",
+			" ",
+			">;",
+			"<",
+			"similar_items",
+			"\"subdivisions",
+			"s_loading",
+			"loading_in",
+			"\"loading",
+			".more",
+			"\"legend",
+			".landm",
+			"more_",
+			"big_link",
+			"more_photos",
+			"more_info",
+			".column",
+			"columns_as_list_item",
+			"bootstrap_block",
+			"dummy_img",
+			"block_anchor",
+			"class=\"con",
+			"\" class=\"without_nav\">",
+			"<div class=\"content__head\" class=\"without_nav\">",
+			"Vybavení:",
+			"\" class=\"without_nav\"",
+			"class=\"con",
+			"patinc",
+			"class=\"without_nav\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"cssmine/content",
+			"cssmine/content/",
+			"'../../bower_components",
+			".admin-box-side",
+			".boxSide",
+			".admin-box-content",
+			"class=\"content ",
+			" class=\"content__head without_nav\"",
+			"{block #content_for_layout}",
+			"",
+			".container ",
+			"",
+			".content",
+			".content__head",
+			"class=\"content\"",
+			"class=\"content__head\"",
+			".content__body",
+			"class=\"content__body",
+			"id=\"textContent\"",
+			".container -->",
+			"class=\"container",
+			"http://dovolena.ck-rekrea.local",
+			"url('dist",
+			"url(dist",
+			"../",
+			"“",
+			"neboli",
+			"th",
+			"###    ",
+			"###   ",
+			"##  ",
+			"## ",
+			"@import \"../../bootstrap/less/",
+			"\"",
+			"",
+			".bootstrap-container",
+			".png",
+			"\"dist/img",
+			"filter",
+			"box box-bordered box-block",
+			"testimonial",
+			"_components/row-testimonials.php",
+			"testimonials",
+			"motivator_full",
+			"product/product-item",
+			"product/",
+			"",
+			"@vc-color-orange",
+			"@vc-color-green",
+			"@vc-color-dark-blue",
+			"@vc-color-blue",
+			"@vc-color-dark-red",
+			"@vc-color-red",
+			"@vc-bg-light",
+			"@vc-border-color-dark",
+			"@vc-border-color",
+			"@vc-color-primary",
+			"@vc-layout-full-start",
+			"@vc-layout-start",
+			"product-options",
+			"product-variants",
+			" ,",
+			" href=\"category_2nd_level.php\" class=\"directory-item\" ",
+			"motivator-category.php",
+			"motivator-detail.php",
+			"motivator",
+			"div>",
+			"<div",
+			"\"show-grid-col",
+			"/dist/",
+			"width=\"150\" height=\"150\"",
+			"logo_placeholder",
+			"include \"../_",
+			"=\"/src",
+			"=\"/dist",
+			"include(\"../_components/",
+			"include(\"../_includes/",
+			"include(\"../_includes",
+			"container",
+			"category.php",
+			"product-item",
+			"detail.php",
+			"dist",
+			"include \"",
+			"include(\"",
+			"@import \"../../bower_components/bootstrap/less/",
+			"opts-variants-variant",
+			"opts-variants",
+			"opts-variant",
+			".5rem",
+			".25rem",
+			"1rem",
+			"1.5rem",
+			"2rem",
+			"1.5rem",
+			"",
+			"1",
+			"rem-calc(",
+			"",
+			"rem-calc(",
+			"",
+			"1",
+			"rem-calc(",
+			"",
+			"https:",
+			"@import \"../bower_components/bootstrap/less/",
+			"../../images",
+			"",
+			"<?php } else if",
+			"<?php } ?>",
+			") { ?>",
+			"<?php else if",
+			"} ?>",
+			"<?php } ?>",
+			"<?php } else { ?>",
+			"<?php if",
+			"dovolena.ck-rekrea.cz/",
+			".cz",
+			"css/min/",
+			".min.css",
+			"css/min",
+			"../../images",
+			"<?php echo _ASSETS_BASE; ?>css/sites/",
+			"<?php echo _ASSETS_BASE;?>css/sites/",
+			"",
+			"site-logo",
+			"css/",
+			"@import \"../bootstrap/less/"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "skoleni/skoleni-08-svg.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 23243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								23243
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tabs_extra_last_activated": 1452783136.67,
+							"tabs_extra_last_activated_sheet_index": 0,
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "skoleni/skoleni-09-js.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15762,
+								15726
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tabs_extra_last_activated": 1452942022.3,
+							"tabs_extra_last_activated_sheet_index": 1,
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 11963.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 965,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								160,
+								160
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"default_dir": "/Users/machal/Sites/vd-newsletters",
+							"draw_white_space": "none",
+							"git_repo": "/Users/machal/Sites/vd-newsletters",
+							"git_status": true,
+							"git_view": "status",
+							"incomplete_sync": null,
+							"syntax": "Packages/SublimeGit/syntax/SublimeGit Status.tmLanguage",
+							"tabs_extra_last_activated": 1452784178.87,
+							"tabs_extra_last_activated_sheet_index": 2,
+							"translate_tabs_to_spaces": false,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"output.git-commit":
+	{
+		"height": 142.0
+	},
+	"output.git-push":
+	{
+		"height": 142.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "vd-newsletters.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"info",
+				"app/templates/Courses/info.latte"
+			],
+			[
+				"card",
+				"assets/scss/modules/vd-card.scss"
+			],
+			[
+				"course/lis",
+				"app/templates/Courses/list.latte"
+			],
+			[
+				"vd-helpe",
+				"assets/scss/core/vd-helpers.scss"
+			],
+			[
+				"responzi",
+				"content/responzivni-obrazky.md"
+			],
+			[
+				"bower",
+				"content/bower.md"
+			],
+			[
+				"backgroun",
+				"src/images/background-size-cover-contain.svg"
+			],
+			[
+				"border-radius.md",
+				"css3-border-radius.md"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"box-",
+				"css3-box-sizing.md"
+			],
+			[
+				"media",
+				"css3-media-queries.md"
+			],
+			[
+				"webov",
+				"webovy-koder.md"
+			],
+			[
+				"grunt",
+				"grunt.md"
+			],
+			[
+				"webo",
+				"webovy-koder.md"
+			],
+			[
+				"node",
+				"node-instalace.md"
+			],
+			[
+				"grunt-",
+				"grunt-pluginy.md"
+			],
+			[
+				"flexbox-l",
+				"content/flexbox-links.md"
+			],
+			[
+				"fall",
+				"content/fallback-strategy-css3.md"
+			],
+			[
+				"brows",
+				"content/browserstack.md"
+			],
+			[
+				"bootstra",
+				"content/bootstrap.md"
+			],
+			[
+				"boot",
+				"app/bootstrap.php"
+			],
+			[
+				"tran",
+				"content/transformations-3.md"
+			],
+			[
+				"tools",
+				"content/tools.md"
+			],
+			[
+				"trans",
+				"content/transformations.md"
+			],
+			[
+				"defa",
+				"app/templates/Homepage/default.latte"
+			],
+			[
+				"note",
+				"NOTES.txt"
+			],
+			[
+				"ebook-or",
+				"app/templates/include/ebook-order.latte"
+			],
+			[
+				"ebook/info",
+				"app/templates/Ebook/info.latte"
+			],
+			[
+				"vd-mixi",
+				"assets/scss/core/vd-mixins.scss"
+			],
+			[
+				"li",
+				"app/templates/Ebook/licences.latte"
+			],
+			[
+				"vd-var",
+				"assets/scss/core/vd-variables.scss"
+			],
+			[
+				"vd-sec",
+				"assets/scss/layout/vd-section.scss"
+			],
+			[
+				"ebook/defa",
+				"app/templates/Ebook/default.latte"
+			],
+			[
+				"vd-eboo",
+				"assets/scss/modules/pages/vd-ebook.scss"
+			],
+			[
+				"mixins.sc",
+				"assets/scss/core/vd-mixins.scss"
+			],
+			[
+				"vrdl",
+				"assets/css/vrdl.css"
+			],
+			[
+				"index.sc",
+				"assets/scss/index.scss"
+			],
+			[
+				"vd-base",
+				"assets/scss/base/vd-base.scss"
+			],
+			[
+				"vd-form",
+				"assets/scss/modules/vd-form.scss"
+			],
+			[
+				"vd-ebook",
+				"assets/scss/modules/pages/vd-ebook.scss"
+			],
+			[
+				"grun",
+				"Gruntfile.js"
+			],
+			[
+				"index.js",
+				"assets/js/index.js"
+			],
+			[
+				"licences",
+				"app/templates/Ebook/licences.latte"
+			],
+			[
+				"vd-hel",
+				"assets/scss/core/vd-helpers.scss"
+			],
+			[
+				"toc.lat",
+				"app/templates/Ebook/toc.latte"
+			],
+			[
+				"vd-box",
+				"assets/scss/modules/vd-box.scss"
+			],
+			[
+				"ebook.",
+				"assets/scss/modules/pages/vd-ebook.scss"
+			],
+			[
+				"ebook/def",
+				"app/templates/Ebook/default.latte"
+			],
+			[
+				"config",
+				"app/config/config.neon"
+			],
+			[
+				"courses/",
+				"app/templates/Courses/list.latte"
+			],
+			[
+				"couses-list",
+				"assets/scss/modules/vd-courses-list.scss"
+			],
+			[
+				"ebook-",
+				"app/templates/include/ebook-order.latte"
+			],
+			[
+				"sect",
+				"assets/scss/layout/vd-section.scss"
+			],
+			[
+				"vd-mix",
+				"assets/scss/core/vd-mixins.scss"
+			],
+			[
+				"vd-eb",
+				"assets/scss/modules/pages/vd-ebook.scss"
+			],
+			[
+				"index.scs",
+				"assets/scss/index.scss"
+			],
+			[
+				"vdhelpers",
+				"assets/scss/core/vd-helpers.scss"
+			],
+			[
+				"/src/svg.svg",
+				"assets/img/content/src/skoleni_svg_thumb.svg"
+			],
+			[
+				"svg.svg",
+				"assets/img/content/src/skoleni_svg_big.svg"
+			],
+			[
+				"sec",
+				"app/config/sections.neon"
+			],
+			[
+				"rou",
+				"app/router/RouterFactory.php"
+			],
+			[
+				"courses-li",
+				"assets/scss/modules/vd-courses-list.scss"
+			],
+			[
+				"avatar",
+				"assets/scss/modules/vd-avatar.scss"
+			],
+			[
+				"uvod",
+				"pred-uvod.md"
+			],
+			[
+				"zav",
+				"zaver.md"
+			],
+			[
+				"prepr",
+				"nastroje-preprocesory.md"
+			],
+			[
+				"bootstrap",
+				"nastroje-bootstrap.md"
+			],
+			[
+				"zmeny",
+				"zmeny-7.md"
+			],
+			[
+				"nastroje-",
+				"nastroje-efektivita-prevodu.md"
+			],
+			[
+				"animation",
+				"animations-priklady.md"
+			],
+			[
+				"font-fa",
+				"font-face-tipy.md"
+			],
+			[
+				"prikla",
+				"animations-priklady.md"
+			],
+			[
+				"tipy",
+				"font-face-tipy.md"
+			],
+			[
+				"fallb",
+				"fallback-strategie-css3.md"
+			],
+			[
+				"rekrea.css",
+				"rekrea/web/ck-rekrea.cz/dovolena/css/sites/rekrea.css"
+			],
+			[
+				"butt",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/button.less"
+			],
+			[
+				"soft-hea",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/soft-head.less"
+			],
+			[
+				"images-lis",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/images-list.less"
+			],
+			[
+				"content",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/content_head.less"
+			],
+			[
+				"index.le",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/index.less"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"helper",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/base/helpers.less"
+			],
+			[
+				"layout",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/layout/layout.less"
+			],
+			[
+				"content_",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/content_head.less"
+			],
+			[
+				"prehled_",
+				"rekrea/web/_includes/templates/ubytovani/prehled_statu.latte"
+			],
+			[
+				"list.less",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/list.less"
+			],
+			[
+				"inline-li",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/inline-list.less"
+			],
+			[
+				"adminlatte",
+				"rekrea/web/_includes/templates/layouts/admin2.latte"
+			],
+			[
+				"admin/css",
+				"rekrea/web/ck-rekrea.cz/www/admin/css/screen.css"
+			],
+			[
+				"layout/admin",
+				"rekrea/web/_includes/templates/layouts/admin.latte"
+			],
+			[
+				"site_logo",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/site_logo.less"
+			],
+			[
+				"more",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/more-photos.less"
+			],
+			[
+				"subdi",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/subdivisions.less"
+			],
+			[
+				"map.les",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/map.less"
+			],
+			[
+				"simila",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/similar-items.less"
+			],
+			[
+				"legen",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/legend.less"
+			],
+			[
+				"help",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/base/helpers.less"
+			],
+			[
+				"more-inf",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/more-info.less"
+			],
+			[
+				"slovnik.les",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/unique/slovnik.less"
+			],
+			[
+				"foot",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/foot.less"
+			],
+			[
+				"fig",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/figure.less"
+			],
+			[
+				"price_tab",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/price_table.less"
+			],
+			[
+				"price_ta",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/price_table.less"
+			],
+			[
+				"head.less",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/soft-head.less"
+			],
+			[
+				"list_ite",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/list_item.less"
+			],
+			[
+				"price.les",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/price-date.less"
+			],
+			[
+				"new_layou",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/layout/new_layout_desktop.less"
+			],
+			[
+				"foo",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/foot.less"
+			],
+			[
+				"numbere",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/numbered.less"
+			],
+			[
+				"datepi",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/lib/datepicker.less"
+			],
+			[
+				"pricetab",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/price_table.less"
+			],
+			[
+				"box.les",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/box.less"
+			],
+			[
+				"soft-",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/soft-head.less"
+			],
+			[
+				"helpe",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/base/helpers.less"
+			],
+			[
+				"inline",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/inline-list.less"
+			],
+			[
+				"new_lay",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/layout/new_layout_mobile.less"
+			],
+			[
+				"stars",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/stars.less"
+			],
+			[
+				"filter.les",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/filters.less"
+			],
+			[
+				"bootstrap-",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/lib/bootstrap-forms.less"
+			],
+			[
+				"new_la",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/layout/new_layout_mobile.less"
+			],
+			[
+				"index.less",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/index.less"
+			],
+			[
+				"hottip",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/hottip.less"
+			],
+			[
+				"nav",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/nav_inside.less"
+			],
+			[
+				"searchless",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/site_search.less"
+			],
+			[
+				"site_nav",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/site_nav.less"
+			],
+			[
+				"siste",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/sister-websites.less"
+			],
+			[
+				"patince/",
+				"rekrea/web/_includes/templates/staticke_stranky/e-patince/uvod.latte"
+			],
+			[
+				"images",
+				"rekrea/web/ck-rekrea.cz/dovolena/less/modules/images-list.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/vzhurudolu/www/vzhurudolu.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
