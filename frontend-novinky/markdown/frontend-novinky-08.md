@@ -1,48 +1,53 @@
-# Jaká je kniha Responsive Webdesign: Patterns and Principles?
+# Jaká je kniha Responsive Design: Patterns &&nbsp;Principles?
 
-Ethan Marcotte napsal novou knihu o responzivním designu.
+Autor pojmu „responzivní design“ napsal [novou knihu](http://abookapart.com/products/responsive-design-patterns-principles).
 
-Tahle věta by mohla mnohým spolehlivě sebrat  pár dolarů z účtu. Těm, kteří s úctou vzhlíží k Ethanově autorství pojmu „responzivní webdesign“. Těm, kteří četli jeho první knížku nebo *ten* slavný článek. Těm, kteří někdy viděli jeho přednášky, slyšeli podcasty nebo je těšily vtipy z jeho tweetů.
+Už jen tahle věta mnohým sebere pár dolarů z účtu. Těm, kteří od Ethana Marcotteho četli první knížku. Nebo [ten](http://alistapart.com/article/responsive-web-design) slavný článek. 
 
-Podobně jako v první knize vás Marcotte nezavalí nákladem novinek a technických vymožeností. Proto doslovné upozornění – pro nejnovějším technické vychytávky nebo hloubku informací hledejte jiné zdroje.
+Podobně jako v první knize vás ale Marcotte nezavalí nákladem novinek a technických vymožeností. Pro nejnovějším technické vychytávky nebo hloubku informací je proto lepší hledat jiné zdroje.
 
-Ethan umí jiné věci. Umí trpělivě, precizně a vtipně vysvětlovat hluboké principy. Tak, aby vzniklý obsah měl co nejšiřší dopad. Váháte co tím myslím? Ethan vymyslel „responzivní webdesign“ a já sázím stovku, že o tom jste něco slyšeli.
+![Responsive Design: Patterns & Principles](http://cdn.shopify.com/s/files/1/0051/7692/products/ABA-hero-15.jpg?v=1447854737)
 
-O jakých návrhové vzorech a principech je v knížce řeč? Ukazuje dobré a špatné vzory designu responzivních navigací, řešení obrázků a videí nebo reklamních bannerů. V principech se dotýká modulárních systémů, nutnosti změn webařských pracovních postupů, trochu haní grid systémy CSS frameworků a fixování webdesignérů na aktuálně prodávaná zařízení.
+Ethan umí jiné věci. Umí trpělivě, precizně a vtipně vysvětlovat hluboké principy. Tak, aby vzniklý obsah měl co nejšiřší dopad. Váháte co tím myslím? Ethan vymyslel „responzivní webdesign“ a já se sázím, že o tom jste něco slyšeli.
 
-Pokud občas čtete články od Waltonů, Chimerů, Mallů a v práci si jejich postupy zkoušíte, asi jsem vás nenalákal. Nicméně – do vaší skupiny se počítám a přesto jsem si u „Responsive design: Patterns & Principles“ řadu věcí ujasnil a pár nových se dozvěděl. 
+O jakých návrhové vzorech a principech je v knížce řeč? Ukazuje dobré a špatné vzory designu responzivních navigací, řešení obrázků a videí nebo reklamních bannerů. V principech se dotýká modulárních systémů, nutnosti změn webařských pracovních postupů, trochu haní layoutové mřížky CSS frameworků a fixování webdesignérů na konkrétní zařízení.
 
-Strašně moc zajímavá ale tahle knížka může být pro všechny ostatní. Je to „status quo“ responzivního designu reflektující vše zásadní co se v něm za šest let událo. 
+Pokud občas čtete články od Waltonů, Chimerů, Mallů a v práci si jejich postupy zkoušíte, asi jsem vás nenalákal. Tyhle věci už totiž máte dávno načtené. Nicméně – do vaší skupiny se počítám a přesto jsem si u „Patterns & Principles“ řadu věcí ujasnil a pár docela zásadních se dozvěděl. 
 
-Pokud jsem nenalákal vás osobně, sázím svoje responzivní ponožky, že někde kolem vás je člověk, kterému Ethan pomůže otevřít vidění principů  responzivního designu. Váš klient, šéf, grafik nebo kolega programátor. Ti všichni tu knížku potřebují.
+Strašně moc zajímavá ale tahle knížka může být pro všechny ostatní. Je to „status quo“ responzivního designu reflektující vývoj posledních šesti let. 
 
-Prostě jim ji kupte, protože…
+Sázím svoje responzivní ponožky, že někde kolem vás je člověk, kterému tahle knížka pomůže otevřít vidění principů  responzivního designu. Váš klient, šéf, grafik nebo kolega programátor. Ti všichni tu knížku potřebují.
 
-Ethan Marcotte napsal novou knihu o responzivním designu.
+Vyplatí se vám ji jim koupit, věřte mi.
 
----
-
-## Volná místa na školeních: Grunt/Gulp, responzivní design a rychlost načítání
-
-Už příští týden si nejprve s Riki Fridrichem pořádně nabrousíte [Grunt nebo Gulp](http://www.vzhurudolu.cz/kurzy/grunt-gulp), ale i další automatizační nástroje. 
-
-Můj [responzivní design](http://www.vzhurudolu.cz/kurzy/responzivni-design) bude opět probírat opomíjené a podstatné principy. Nově ale přidávám technikálie, o kterých jsem ještě nic nepsal. 
-
-Hned další týden pak školím [optimalizaci rychlosti načítání](http://www.vzhurudolu.cz/kurzy/rychlost-nacitani). U Rikiho zrychlíte sebe, tady své weby. O dost.
+Autor pojmu „responzivní design“ napsal [novou knihu](http://abookapart.com/products/responsive-design-patterns-principles).
 
 ---
 
-## Rychlé tipy a triky
+## Nepromeškejte termíny školení, která vás posunout&nbsp;dál
 
-Opět je pro vás připravil [Martin Pešout](http://www.twitter.com/martinpesout):
+[![Školení Vzhůru dolů](http://i.snag.gy/icTyL.jpg)](http://www.vzhurudolu.cz/kurzy)
 
-- **[Safari obdrželo řadu užitečných vylepšení.](https://developer.apple.com/library/prerelease/mac/releasenotes/General/WhatsNewInSafari/Articles/Safari_9_1.html)** Vývojáři Safari přidali v poslední aktualizaci na verzi 9.1 několik zásadních vylepšení. Prohlížeč nově podporuje HTML `picture` element, můžete využívat CSS proměnné, CSS `filter` můžete nově zapisovat i bez `-webkit` prefixů a mohem více.
+Už příští týden si nejprve s Riki Fridrichem pořádně nabrousíte **[Grunt nebo Gulp](http://www.vzhurudolu.cz/kurzy/grunt-gulp)**, ale i další automatizační nástroje. 
+
+Můj **[responzivní design](http://www.vzhurudolu.cz/kurzy/responzivni-design)** je zaměřený na opomíjené a podstatné principy. Nově ale přidávám technikálie, o kterých jsem ještě nic nepsal. 
+
+Hned další týden pak školím **[optimalizaci rychlosti načítání](http://www.vzhurudolu.cz/kurzy/rychlost-nacitani)**. U Rikiho zrychlíte sebe, tady své weby. O dost.
+
+---
+
+## Rychlé tipy a&nbsp;triky
+
+Výběr zajímavých odkazů pro vás nachystal [Martin Pešout](http://www.twitter.com/martinpesout):
+
+- **[Vývojáři Safari přidali řadu užitečných vylepšení.](https://developer.apple.com/library/prerelease/mac/releasenotes/General/WhatsNewInSafari/Articles/Safari_9_1.html)** Vývojáři Safari přidali v poslední aktualizaci na verzi 9.1 několik zásadních vylepšení. Prohlížeč nově podporuje HTML `picture` element, můžete využívat CSS proměnné, CSS `filter` můžete nově zapisovat i bez `-webkit` prefixů a mohem více.
 - **[Generátor variant obrázků pro `<img srcset>`.](http://www.responsivebreakpoints.com/)** Šikovný nástroj, který vám umožní vložit obrázek, vygenerovat jeho responsivní varianty a vše zasadit do výsledného `<img srcset>` tagu. Více informací o atributech `srcset` a `sizes` najdete také v [článku na Vzhůru dolů](http://www.vzhurudolu.cz/prirucka/srcset-sizes).
-- **[CSS @support.](http://www.sitepoint.com/an-introduction-to-css-supports-rule-feature-queries/)** Javascriptová knihovna Modernizr bývá mnohdy nejpoužívanějším nástrojem v situacích, kdy chceme využívat nových vychytávek z CSS. Článek ukazuje, že se dokážeme obejít i bez Javascriptu. Podívejme se, jak lze detekovat CSS vlastnost `mix-blend-mode` pouze pomocí pravidla `@support`.
+- **[CSS @support v praxi.](http://www.sitepoint.com/an-introduction-to-css-supports-rule-feature-queries/)** Javascriptová knihovna Modernizr bývá mnohdy nejpoužívanějším nástrojem v situacích, kdy chceme využívat nových vychytávek z CSS. Článek ukazuje, že se dokážeme obejít i bez Javascriptu. Podívejme se, jak lze detekovat CSS vlastnost `mix-blend-mode` pouze pomocí pravidla `@support`.
 - **[Rozpohybujte své SVG obrázky.](http://maxwellito.github.io/vivus/)** `vivus` je šikovná javascriptová knihovna, která dokáže animovat vložené SVG obrázky na webu. Celá animace pak působí dojmem, jako by byl obrázek postupně vykreslen rukou.
 
+---
 
-## Přečtěte si na Vzhůru dolů
+## Co jsem psal na Vzhůru&nbsp;dolů?
 
 V lednu jste u nás doma mohli slyšet zvuk klávesnice v kadenci zcela neuvěřitelné. Osm článků na blogu je asi můj rekord. Pro vás vybírám ty s největším ohlasem: 
 
