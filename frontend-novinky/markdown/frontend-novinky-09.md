@@ -22,6 +22,7 @@ Výběr zajímavých odkazů pro vás nachystal [Martin Pešout](http://www.twit
 - **[Async CSS w/ link[rel=preload]](http://filamentgroup.github.io/loadCSS/test/preload.html)**
 - **[Jak se dá rozšířit preprocessor pomocí postprocessoru?](http://ashleynolan.co.uk/blog/extend-sass-with-postcss)**
 - **[IMA.js](https://imajs.io/)**
+- **[State of email report](https://litmus.com/lp/2016-state-of-email-report)**
 
 
 ---
