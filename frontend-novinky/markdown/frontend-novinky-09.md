@@ -8,15 +8,15 @@ Hlavní text newsletteru...
 
 Výběr zajímavých odkazů pro vás nachystal [Martin Pešout](http://www.twitter.com/martinpesout):
 
-- **[Awesome.](https://github.com/sindresorhus/awesome)**
-- **[Jak na React (česky).](https://github.com/petehunt/react-howto/blob/master/README-cs.md)**
-- **[300ms zpozdění na dotykových zařízeních je pryč.](https://gist.github.com/gajus/bbf06ea2e37047b01e70)** Double tap was removed from major browsers for sties using width=device-width.
-	- Chrome was first: https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away
-	- Firefox did this 2 years ago: https://bugzilla.mozilla.org/show_bug.cgi?id=941995
-	- Safari followed about 2 months ago: https://bugs.webkit.org/show_bug.cgi?id=150604
-- **[Flexbox & the keyboard navigation disconnect](http://tink.uk/flexbox-the-keyboard-navigation-disconnect/)**
+- **[300ms zpoždění už nemusí být problémem.](https://gist.github.com/gajus/bbf06ea2e37047b01e70)** Mobilní zařízení čekají 300ms po dotyku prstu na displeji, aby zjistili, zda uživatel nechtěl udělat dvojí poklepání. Toto nepříjemné zpoždění šlo odstranit např. užitím JS knihovny [Fastclick](https://github.com/ftlabs/fastclick). Čisté CSS řešení pomocí vlastnosti `touch-action` nemělo 100% podporu. Nově přibyla podpora i v Safari. Dokážeme tak konečně pokrýt všechny velké prohlížeče.
+- **[Flexbox & the keyboard navigation disconnect.](http://tink.uk/flexbox-the-keyboard-navigation-disconnect/)** Léonie Watson píše ve svém článku o problému, který vzniká při použití flexbox vlastnosti `order`. Vizuální pořadí prvků se totiž odlišuje od reálného pořadí (DOM).
+- **[Awesome list.](https://github.com/sindresorhus/awesome)** Zajímá vás konkrétní programovací jazyk nebo hledáte info o nové webové technologii? Awesome list může být zajímavým zdrojem informací - seznamy nástrojů, oblíbených rozšíření, odkazy na užitečné články a mohem víc.
+- **[Jak na React (česky).](https://github.com/petehunt/react-howto/blob/master/README-cs.md)** Pokud jste se rozhodli začít s Reactem, lehce se můžete v celém ekosystému nástrojů a technik ztratit. Vojtěch Mikšů stál u zrodu tohoto nástroje. Zde je jeho návod popisující, co vše by měl vývojář zvládnout, aby dokázal React efektivně využít.
+- **[CSS @keyframes preview in Chrome.](https://twitter.com/ChromeDevTools/status/694966453376675840)** Chrome DevTools již nějakou dobu umožňuje ladit průběh jednoduchých CSS transformací. Brzo pomocí něho dokážete upravit i jednotlivé kroky `@keyframes`.
+
+
+
 - **[Safari Responsive Design Mode](http://www.macobserver.com/tmo/article/safari-9-using-responsive-design-mode)**
-- **[CSS @keyframes preview in Chrome](https://twitter.com/ChromeDevTools/status/694966453376675840)**
 - **[Critical Webfonts](http://www.zachleat.com/web/critical-webfonts/)**
 - **[The future of loading CSS](https://jakearchibald.com/2016/link-in-body/)**
 - **[Async CSS w/ link[rel=preload]](http://filamentgroup.github.io/loadCSS/test/preload.html)**
