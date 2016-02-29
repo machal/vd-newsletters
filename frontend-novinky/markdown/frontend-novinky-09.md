@@ -8,9 +8,9 @@ Hlavní text newsletteru...
 
 Výběr zajímavých odkazů pro vás nachystal [Martin Pešout](http://www.twitter.com/martinpesout):
 
+- **[The future of loading CSS.](https://jakearchibald.com/2016/link-in-body/)** ... dopsat ...
 - **[300ms zpoždění už nemusí být problémem.](https://gist.github.com/gajus/bbf06ea2e37047b01e70)** Mobilní zařízení čekají 300ms po dotyku prstu na displeji, aby zjistili, zda uživatel nechtěl udělat dvojí poklepání. Toto nepříjemné zpoždění šlo odstranit např. užitím JS knihovny [Fastclick](https://github.com/ftlabs/fastclick). Čisté CSS řešení pomocí vlastnosti `touch-action` nemělo 100% podporu. Nově přibyla podpora i v Safari. Dokážeme tak konečně pokrýt všechny velké prohlížeče.
-- **[Flexbox & the keyboard navigation disconnect.](http://tink.uk/flexbox-the-keyboard-navigation-disconnect/)** Léonie Watson píše ve svém článku o problému, který vzniká při použití flexbox vlastnosti `order`. Vizuální pořadí prvků se totiž odlišuje od reálného pořadí (DOM).
-- **[Awesome list.](https://github.com/sindresorhus/awesome)** Zajímá vás konkrétní programovací jazyk nebo hledáte info o nové webové technologii? Awesome list může být zajímavým zdrojem informací - seznamy nástrojů, oblíbených rozšíření, odkazy na užitečné články a mohem víc.
+- **[Awesome CSS.](https://github.com/sindresorhus/awesome)** Seznam nástrojů a technik, které momentálně "frčí" mezi frontendisty.
 - **[Jak na React (česky).](https://github.com/petehunt/react-howto/blob/master/README-cs.md)** Pokud jste se rozhodli začít s Reactem, lehce se můžete v celém ekosystému nástrojů a technik ztratit. Vojtěch Mikšů stál u zrodu tohoto nástroje. Zde je jeho návod popisující, co vše by měl vývojář zvládnout, aby dokázal React efektivně využít.
 - **[CSS @keyframes preview in Chrome.](https://twitter.com/ChromeDevTools/status/694966453376675840)** Chrome DevTools již nějakou dobu umožňuje ladit průběh jednoduchých CSS transformací. Brzo pomocí něho dokážete upravit i jednotlivé kroky `@keyframes`.
 
@@ -18,7 +18,6 @@ Výběr zajímavých odkazů pro vás nachystal [Martin Pešout](http://www.twit
 
 - **[Safari Responsive Design Mode](http://www.macobserver.com/tmo/article/safari-9-using-responsive-design-mode)**
 - **[Critical Webfonts](http://www.zachleat.com/web/critical-webfonts/)**
-- **[The future of loading CSS](https://jakearchibald.com/2016/link-in-body/)**
 - **[Async CSS w/ link[rel=preload]](http://filamentgroup.github.io/loadCSS/test/preload.html)**
 - **[Jak se dá rozšířit preprocessor pomocí postprocessoru?](http://ashleynolan.co.uk/blog/extend-sass-with-postcss)**
 - **[IMA.js](https://imajs.io/)**
