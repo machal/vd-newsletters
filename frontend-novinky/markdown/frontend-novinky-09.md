@@ -1,6 +1,24 @@
-# Nadpis newsletteru
+# Webařův checklist teď i jako&nbsp;aplikace
 
-Hlavní text newsletteru...
+Proč dělat weby blbě, když je můžete dělat dobře? Třeba podle [kontrolního seznamu ze Vzhůru dolů](http://www.vzhurudolu.cz/checklist).
+
+[![Checklist pro dokončení webu](https://gallery.mailchimp.com/d6be2f1899eba6a7651157403/images/9d3a7d0e-c377-4156-8ddd-a912ff462ddb.jpg)](http://www.vzhurudolu.cz/checklist)
+
+Webařův checklist měl v podobě článku nebo PDF hezké ohlasy. Jenže… *článek*  v době, kdy existují aplikace snad i na drbání za uchem!? *Pé dé ef*  ve století, ve kterém všechny potíže světa vyřešil React?! 
+
+Já vím, já vím. Obojí je trochu nepraktické. A proto vznikla tahle miniaplikace. Jděte si ji hned zkusit:
+
+[ Vyzkoušet checklist ](http://www.vzhurudolu.cz/checklist)
+
+Funguje to tak, jak asi očekáváte: 
+
+- Vytvoříte si nový seznam a případně jej nasdílíte s kolegy. 
+- Přidáváte, upravujte nebo mažete položky seznamů. 
+- My vám budeme ukládat průběžný stav plnění úkolů na serveru, abyste to měli dostupné ze všech zařízení.
+
+Hlavní cílovou skupinou jsou frontend kodéři. Největší využití checklist najde pro dokončovací práce na statických webech. Je v něm ale řada překryvů do backendu i dalších webařských řemesel. Zkuste si to.
+
+Nápady a připomínky k funkčnosti i obsahu velmi vítám. Odpovězte na tento email nebo prostě napište na [martin@vzhurudolu.cz)(mailto:martin@vzhurudolu.cz).
 
 ---
 
@@ -21,10 +39,12 @@ Výběr zajímavých odkazů pro vás nachystal [Martin Pešout](http://www.twit
 
 ## Co jsem psal na Vzhůru&nbsp;dolů?
 
-Seznam věcí na VD
+V lednu jste u nás doma mohli slyšet zvuk klávesnice v kadenci zcela neuvěřitelné. Osm článků na blogu je asi můj rekord. Pro vás vybírám ty s největším ohlasem: 
 
-Ať vám to dobře kóduje i v březnu!
+- **[Vše o meta značce pro viewport](http://www.vzhurudolu.cz/prirucka/viewport-meta)**. Znáte ji, vím to. Ale vsadím se, že o ní ještě nevíte všechno.
+- **[Proč řešit rychlost načítání webů?](http://www.vzhurudolu.cz/prirucka/rychlost-nacitani-proc)**. Košík plný argumentů. Doporučuji servírovat šéfovi, klientům a ukázat i kolegům.
+
+To by už stačilo, protože „březen, za kamna vlezem a pár webů nakódujem'“!
 
 Martin Michálek ([@machal](http://www.twitter.com/machal))
 
-<small>PS: Hlásím zvýšenou aktivitu na Google+. Zase to s ním zkouším. :) Odebírat tam můžete přímo  [Vzhůru dolů](https://plus.google.com/b/109221560773963108322/+VzhurudoluCz/posts) nebo [můj osobní profil](https://plus.google.com/u/0/+MartinMich%C3%A1lek).</small>
