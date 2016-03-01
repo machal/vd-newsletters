@@ -40,7 +40,7 @@ Výběr zajímavých odkazů pro vás nachystal [Martin Pešout](http://www.twit
 ---
 
 
-[![Školení SVG, Javascriptu a Bootstrapu](https://gallery.mailchimp.com/d6be2f1899eba6a7651157403/images/d55ab17d-2ab7-4cd2-a83c-c9d504e9aecd.png)](http://www.vzhurudolu.cz/skoleni)
+[![Školení SVG, Javascriptu a Bootstrapu](https://gallery.mailchimp.com/d6be2f1899eba6a7651157403/images/d55ab17d-2ab7-4cd2-a83c-c9d504e9aecd.png)](http://www.vzhurudolu.cz/kurzy)
 
 V plánu máme tři školení:
 
