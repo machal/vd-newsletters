@@ -4,11 +4,13 @@ Proč dělat weby blbě, když je můžete dělat dobře? Třeba podle [kontroln
 
 [![Checklist pro dokončení webu](https://gallery.mailchimp.com/d6be2f1899eba6a7651157403/images/9d3a7d0e-c377-4156-8ddd-a912ff462ddb.jpg)](http://www.vzhurudolu.cz/checklist)
 
-Webařův checklist měl v podobě článku nebo PDF hezké ohlasy. Jenže… *článek*  v době, kdy existují aplikace snad i na drbání za uchem!? *Pé dé ef*  ve století, ve kterém všechny potíže světa vyřešil React?! 
+Webařův checklist měl v podobě článku nebo PDF hezké ohlasy. Jenže… *Článek*  v době, kdy existují aplikace snad i na drbání za uchem!? *Pé dé ef*  ve století, ve kterém všechny potíže světa vyřešil React?! 
 
 Já vím, já vím. Obojí je trochu nepraktické. A proto vznikla tahle miniaplikace. Jděte si ji hned zkusit:
 
-[ Vyzkoušet checklist ](http://www.vzhurudolu.cz/checklist)
+<p class="text-center">
+<a href="http://www.vzhurudolu.cz/checklist" class="button">Vyzkoušet checklist</a>
+</p>
 
 Funguje to tak, jak asi očekáváte: 
 
@@ -18,7 +20,7 @@ Funguje to tak, jak asi očekáváte:
 
 Hlavní cílovou skupinou jsou frontend kodéři. Největší využití checklist najde pro dokončovací práce na statických webech. Je v něm ale řada překryvů do backendu i dalších webařských řemesel. Zkuste si to.
 
-Nápady a připomínky k funkčnosti i obsahu velmi vítám. Odpovězte na tento email nebo prostě napište na [martin@vzhurudolu.cz)(mailto:martin@vzhurudolu.cz).
+Nápady a připomínky k funkčnosti i obsahu velmi vítám. Odpovězte na tento email nebo prostě napište na [martin@vzhurudolu.cz](mailto:martin@vzhurudolu.cz).
 
 ---
 
