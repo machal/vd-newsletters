@@ -39,6 +39,19 @@ Výběr zajímavých odkazů pro vás nachystal [Martin Pešout](http://www.twit
 
 ---
 
+
+[![Školení SVG, Javascriptu a Bootstrapu](https://gallery.mailchimp.com/d6be2f1899eba6a7651157403/images/d55ab17d-2ab7-4cd2-a83c-c9d504e9aecd.png)](http://www.vzhurudolu.cz/skoleni)
+
+V plánu máme tři školení:
+
+* [Scalable Vector Graphics alias SVG](http://www.vzhurudolu.cz/kurzy/svg) s Michalem Matuškou. Od jednoduchých využití vektorů až po animace, efekty a interaktivní infografiky. Poslední tři místa na [15. března](http://www.vzhurudolu.cz/kurzy/svg).
+* [Principy Javascriptu](http://www.vzhurudolu.cz/kurzy/javascript) vám přiblíží Riki Fridrich. Javascript jako programovací jazyk konečně pořádně.  Přihlaste se na [22. března](http://www.vzhurudolu.cz/kurzy/javascript).
+* [Bootstrap](http://www.vzhurudolu.cz/kurzy/bootstrap) a jeho rozšiřování ukazuje Adam Kudrna, autor pokročilé prototypovací nástavby Bootstrapu, [Synergic UI](http://ui.synergic.cz/).  Přihlaste se na [24. března](http://www.vzhurudolu.cz/kurzy/bootstrap).
+
+Je dobré připomenout, že si každý z kurzů můžete [objednat jako školení do firmy](http://www.vzhurudolu.cz/kurzy#inhouse).
+
+---
+
 ## Co jsem psal na Vzhůru&nbsp;dolů?
 
 V lednu jste u nás doma mohli slyšet zvuk klávesnice v kadenci zcela neuvěřitelné. Osm článků na blogu je asi můj rekord. Pro vás vybírám ty s největším ohlasem: 
@@ -49,4 +62,3 @@ V lednu jste u nás doma mohli slyšet zvuk klávesnice v kadenci zcela neuvěř
 To by už stačilo, protože „březen, za kamna vlezem a pár webů nakódujem'“!
 
 Martin Michálek ([@machal](http://www.twitter.com/machal))
-
