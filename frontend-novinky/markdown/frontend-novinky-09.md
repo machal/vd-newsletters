@@ -28,12 +28,12 @@ Nápady a připomínky k funkčnosti i obsahu velmi vítám. Odpovězte na tento
 
 Výběr zajímavých odkazů pro vás nachystal [Martin Pešout](http://www.twitter.com/martinpesout):
 
-- **[The future of loading CSS.](https://jakearchibald.com/2016/link-in-body/)** Chrome mění chování `<link rel="stylesheet">`, pokud ho umístíte uvnitř `<body>`. Tam dostane chování podobné `<script>` – vykreslí se část nad ním, čeká se na stažení CSS a pak se vykreslí část pod ním. Stránka se bude zobrazovat postupně po komponentách a uživatel nebude muset čekat na načtení všech CSS souborů. 
+- **[The future of loading CSS.](https://jakearchibald.com/2016/link-in-body/)** Chrome mění chování `<link rel="stylesheet">`, pokud ho umístíte uvnitř `<body>`. Tam dostane chování podobné `<script>` – vykreslí se část nad ním, čeká se na stažení CSS a pak se vykreslí část pod ním. Stránka se bude zobrazovat postupně po komponentách a uživatel nebude muset čekat na načtení všech CSS souborů.
 - **[Už brzy nebudeme muset řešit 300ms zpoždení prokliků Javascriptem.](https://gist.github.com/gajus/bbf06ea2e37047b01e70)** Nepříjemné zpoždění znají uživatelé dotykových zařízení. Je způsobeno tím, že prohlížeč čeká, zda uživatel nechtěl udělat dvojklik. Prodlevu lze odstranit např. pomocí JS knihovny [Fastclick](https://github.com/ftlabs/fastclick). Máme tu ale i řešení čistě pomocí CSS – `touch-action`. Chybějící podpora v Safari má zmizet s příchodem nové verze. Bude tak konečně možné pokrýt všechny velké prohlížeče.
 - **[Awesome CSS.](https://github.com/sindresorhus/awesome)** Opravdu úžasný seznam nástrojů a technik, které momentálně „frčí“ mezi frontendisty.
 - **[Jak na React (česky).](https://github.com/petehunt/react-howto/blob/master/README-cs.md)** Pokud jste se rozhodli začít s Reactem, lehce se můžete v celém ekosystému nástrojů a technik ztratit. Vojtěch Mikšů přeložil do češtiny návod popisující, co vše by měl vývojář zvládnout, aby dokázal React efektivně využít.
 - **[CSS @keyframes preview in Chrome.](https://twitter.com/ChromeDevTools/status/694966453376675840)** Chrome DevTools již nějakou dobu umožňuje ladit průběh jednoduchých CSS transformací. Brzo v něm bude možné upravit i jednotlivé kroky `@keyframes`.
-- **[Preload: What Is It Good For?](https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/)** `<link rel="preload">` je nový sandard, který se zaměřuje na zlepšení rychlosti načítání webů. Umožňuje vývojářům definovat vlastní logiku nahrávání obsahu. Načte data dříve, než je prohlížeč bude potřebovat k vykreslení.
+- **[Preload: What Is It Good For?](https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/)** `<link rel="preload">` je nový sandard, který se zaměřuje na zlepšení rychlosti načítání webů. Umožňuje vývojářům definovat vlastní logiku nahrávání obsahu. Načte data dříve, než je prohlížeč bude skutečně potřebovat.
 
 ---
 
