@@ -23,7 +23,7 @@ Robin Pokorný si z Berlína, kde pracuje, výjimečně odskočil na delší dob
 
 ## [19. května, Optimalizace rychlosti načítání](http://www.vzhurudolu.cz/kurzy/rychlost-nacitani)
 
-„Responzivní design pro pokročilé“. Program plynule navazuje na školení responzivního designu. Naučíte se jak posílat různé obrázky na různá zařízení, techniku zvanou kritické CSS nebo třeba jak ovládnout načítání webfontů. Prostě – jak dělat rychlejší weby.
+„Responzivní design pro pokročilé“. Program plynule navazuje na školení responzivního designu. Naučíte se jak posílat různé obrázky na různá zařízení, techniku zvanou kritické CSS nebo třeba jak ovládnout načítání webfontů. Prostě – jak dělat rychlejší weby.  
 [Objednat →](http://www.vzhurudolu.cz/kurzy/rychlost-nacitani#objednavka)
 
 ## [24. května, Principy Javascriptu](http://www.vzhurudolu.cz/kurzy/javascript)
