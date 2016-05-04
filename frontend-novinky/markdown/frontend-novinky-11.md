@@ -2,7 +2,7 @@
 
 Jedna česká, tři od A Book Apart a tři od O’Reilly. Jdeme na ně!
 
-**[1) Dobrý designér od Petra Staníčka.](http://pixy.cz/kniha-dobrydesigner/)** Učebnice webového *designu* pro začátečníky i pokročilé. Jak jsem [psal v recenzi pro Lupu](http://www.lupa.cz/clanky/pixyho-ucebnice-muze-pomoci-vychovat-generaci-dobrych-webdesigneru/) – je trochu upovídanější, ale rozhodně doporučuji všem vývojářům nebo méne pokročilým designérům. 
+**[1) Dobrý designér od Petra Staníčka.](http://pixy.cz/kniha-dobrydesigner/)** Učebnice webového *designu* pro začátečníky i pokročilé. Jak jsem [psal v recenzi pro Lupu](http://www.lupa.cz/clanky/pixyho-ucebnice-muze-pomoci-vychovat-generaci-dobrych-webdesigneru/) – je trochu upovídanější, ale rozhodně doporučuji všem vývojářům nebo méne pokročilým designérům.
 
 **[2) Git for Humans](https://abookapart.com/products/git-for-humans).** Protože jestli pro někoho Git vymýšleli, pro lidi to určitě nebylo. Stejně jako další tři vydává A Book Apart.
 
@@ -34,8 +34,8 @@ To nejlepší nakonec. [Ebooky z končícího vydavatelství FiveSimpleSteps](ht
 
 Výběr zajímavých odkazů připravil [Martin Pešout](http://www.twitter.com/martinpesout):
 
-- **[On :not and Specificity](http://bitsofco.de/on-not-and-specificity/)**. Při psaní CSS se snažíme dosáhnout vždy co nejnižší specifičnosti selektorů. Podívejte se, jak je tomu u pseudo selektoru `:not` a kterých zápisů je dobré se vyvarovat.
-- **[Viewport Unit Based Typography](http://zellwk.com/blog/viewport-based-typography/).** Jednotky jako `vw` nebo `vh` umožňují definovat rozměry v CSS relativně k velikosti viewportu. Článek ukazuje, jak se dá využít právě šířky viewportu u reponsivní typografie na webu.
+- **[On :not and Specificity](http://bitsofco.de/on-not-and-specificity/)**. Při psaní CSS se snažíme dosáhnout co nejnižší specifičnosti selektorů. Článek rozebírá pseudo selektor `:not` a ukáže vám, že specifičnost samotnou vůbec neovlivňuje. Vše ovlivňují až selektory umístěné uvnitř `:not`.
+- **[Viewport Unit Based Typography](http://zellwk.com/blog/viewport-based-typography/).** Článek ukazuje, jak se dá využít šířky viewportu u reponsivní typografie na webu. Celý trik spočívá ve správně definované funkci `calc()`, která použije `vw` pro výpočet velikosti fontu.
 - **[PostCSS.parts](http://postcss.parts/)**. Pokud používáte při práci PostCSS, tak právě pro vás je zde přehledný katalog pluginů. Vše je rozdělené do několika kategorií s možností snadného hledávání.
 - **[CSS only Responsive Tables](http://dbushell.com/2016/03/04/css-only-responsive-tables/)**. Responsivní tabulky, ve kterých lze scrollovat a zobrazují stín v případě, že se obsah nevejde na šírků stránky. Výsledné řešení navíc neobsahuje ani řádek Javascriptu.
 - **[Styling Broken Images](http://bitsofco.de/styling-broken-images/)**. Podívejte se, jak je možné stylovat  `<img />` s nefunknčím `src`.
@@ -48,7 +48,7 @@ Roztrhl se také pytel s online výukou [CSS Flexbox](http://www.vzhurudolu.cz/p
 ## O čem jsem psal na Vzhůru dolů?
 
 - [Kompletní průvodce odkazy na telefonní čísla](http://www.vzhurudolu.cz/blog/57-href-tel) ([video](https://www.youtube.com/watch?v=rbFq9-9o7Fw))
-- [Jak na mobilní navigaci a proč potřebujeme hamburgery?](http://www.vzhurudolu.cz/prirucka/mobilni-navigace-hamburger) 
+- [Jak na mobilní navigaci a proč potřebujeme hamburgery?](http://www.vzhurudolu.cz/prirucka/mobilni-navigace-hamburger)
 - [Jaký typ responzivní navigace vybrat?](http://www.vzhurudolu.cz/prirucka/responzivni-navigace) ([video](https://www.youtube.com/watch?v=D4IDwYCWfJk))
 - [Tři viewporty na mobilních zařízeních](http://www.vzhurudolu.cz/prirucka/viewport-mobily)
 - [Nástroje pro analýzu rychlosti načtení stránky](http://www.vzhurudolu.cz/prirucka/rychlost-nastroje)
