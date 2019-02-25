@@ -1,4 +1,4 @@
-# Doražte na nové školení kódování newsletterů. A také do Brna
+# Doražte na nové školení kódování newsletterů. A také do Brna
 
 Dobrý den!
 
@@ -8,19 +8,19 @@ S [Tomášem Krejčím](https://www.vzhurudolu.cz/lektori/tomas-krejci) ze SUPE
 
 A víte proč? Tomáš si za léta přípravy HTML e-mailů vytvořil taková pravidla tvorby a takové workflow v Gulpu, že je pro něj kódování newsletterů hračka. Teď je připravený obojí předat i vám, kteří tuhle práci děláte méně často.
 
-[![https://gallery.mailchimp.com/d6be2f1899eba6a7651157403/images/14d95ea7-0feb-4003-89e7-d24bdd0eb9ef.jpg](Školení kódování newsletterů)](https://www.vzhurudolu.cz/kurzy/newslettery)
+[![Školení kódování newsletterů](https://gallery.mailchimp.com/d6be2f1899eba6a7651157403/images/14d95ea7-0feb-4003-89e7-d24bdd0eb9ef.jpg)](https://www.vzhurudolu.cz/kurzy/newslettery)
 
 Do **pátku 8. března**  můžete získat **slevu 590 Kč** bez DPH za včasné zakoupení míst na všechny termíny Tomášova kurzu. Při objednávce prostě jen uveďte slevový kód **NEWSLETTERY2019**.
 
 ## Zvu vás na probíhající školení
-
-V Praze budou další až na podzim, takže nepromeškejte příležitost dozvědět se mnoho nového:
 
 * 6. března [WordPress](https://www.vzhurudolu.cz/kurzy/wordpress) – s webmistrem Honzou Bienem.
 * 12. března [SVG](https://www.vzhurudolu.cz/kurzy/svg) – výlet do krajin vektorů daleko za ikony s Michalem Matuškou. 
 * 20. března [Nástroje JavaScriptu](https://www.vzhurudolu.cz/kurzy/nastroje-javascriptu) – NPM, Yarn, Babel, Webpack, Karma… vše do hloubky s Riki Fridrichem.
 
 …a abych nezapomněl: V dubnu a květnu děláme letos poprvé také [všechna školení v Brně](https://www.vzhurudolu.cz/kurzy/misto-brno-superkoders).
+
+V Praze budou další až na podzim, takže nepromeškejte příležitost dozvědět se mnoho nového.
 
 <br>
 
