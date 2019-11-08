@@ -1,21 +1,31 @@
-# … 
+# Jak nenechat poskakovat layout?
 
-## Organizace CSS – poslední letošní kurz 
+Milé čtenářky, milí čtenáři,
 
-Víte, že `!important` patří temné straně síly, přesto ho musíte často psát? Zajděte na [kurz Adama Kudrny](https://www.vzhurudolu.cz/kurzy/css-kod), které 28. listopadu uzavírá podzimní školící sezonu.
+představte si, že na mobilu používáte web a chcete kliknout na odkaz v textu. Jenže mezitím se vám nahoře stáhl obrázek, celý layout se posunul, vy omylem klikáte na reklamu a klejete. Komu by se to nestalo, že…?
 
-Kromě Adamových zkušeností z praxe dostanete tipy a triky pro nástroje jako je Stylelint nebo metodiky jako je BEM, SUIT CSS a ITCSS.
+![](https://gallery.mailchimp.com/d6be2f1899eba6a7651157403/images/a059496a-6a99-489b-8ab5-401db472aa12.png)
+
+Je to nepříjemné. Stabilita layoutu je proto jedním z důležitých témat rychlosti vykreslování webu.
+
+Rozbití layoutu responzivními obrázky a jinými médii lze zamezit nesmrtelným [padding-bottom trikem](https://www.vzhurudolu.cz/prirucka/padding-trik). Ale metod je daleko více a proto o nich právě teď připravuji velký text.
+
+Pomůžete mi? V odpovědi na tenhle e-mail mě napište, jakým způsobem stabilitu layoutu kolem responzivních médií řešíte vy. Čím víc metod posbíráme, tím lepší článek bude.
+
+## Organizace CSS – poslední letošní kurz
+
+Víte, že `!important` patří temné straně síly, přesto ho musíte často psát? Zajděte na [kurz Adama Kudrny](https://www.vzhurudolu.cz/kurzy/css-kod), který 28. listopadu uzavírá podzimní školící sezonu.
+
+Kromě Adamových zkušeností z praxe dostanete tipy a triky pro nástroje jako je Stylelint nebo konečně do hloubky poznáte metodiky jako je BEM, SUIT CSS nebo ITCSS.
 
 [![](https://gallery.mailchimp.com/d6be2f1899eba6a7651157403/images/3515e374-0dfb-4104-9412-ec0842e78ab3.jpg)](https://www.vzhurudolu.cz/kurzy/css-kod)
 
-Už teď ale můžete objednat místo na prvních dvou sezónách roku 2020:
+Adam tímto kurzem uzavře podzimní sezónu. Už teď ale můžete – dokud jsou volná místa – objednat účast na prvních dvou sezónách roku 2020:
 
 * V únoru a březnu školíme [v Praze](https://www.vzhurudolu.cz/kurzy/misto-praha-greenpoint).
 * V dubnu a květnu se uvidíme [v Brně](https://www.vzhurudolu.cz/kurzy/misto-brno-superkoders).
 
 → [Více o kurzech](https://www.vzhurudolu.cz/kurzy)
-
-<br>
 
 ## 7 tipů na novinky, články, podcasty a… alergii
 
